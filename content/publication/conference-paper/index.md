@@ -12,9 +12,9 @@ authors:
   
 
 # Author notes (optional)
-<!-- author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution' -->
+# <!-- author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution' -->
 
 date: '2022-04-22T00:00:00Z'
 doi: 'https://doi.org/10.34190/ecsm.9.1.299'
