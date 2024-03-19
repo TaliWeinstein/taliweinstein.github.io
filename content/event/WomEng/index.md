@@ -47,7 +47,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Advert
-    url: https://twitter.com/_WomEng/status/1555214539481817089
+    url: 'https://twitter.com/_WomEng/status/1555214539481817089'
 url_code: ''
 url_pdf: ''
 url_slides: ''
