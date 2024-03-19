@@ -38,14 +38,14 @@ tags: [Biomedical Engineering, Microcontrollers, Photoplethysmography, Women Emp
 featured: false
 
 image:
-  caption: ' [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Tanganani Mugivhi'
   focal_point: Right
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/_WomEng/status/1555214539481817089
 url_code: ''
 url_pdf: ''
 url_slides: ''
