@@ -13,8 +13,14 @@ address:
   country: South Africa 
 
 
-summary: An immersive workshop which aimed to provide teenage girls with an understanding of the biomedical engineering field through hands on activities and discussion. 
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: An immersive workshop in 2022 which aimed to provide teenage girls with an understanding of the biomedical engineering field through hands on activities and discussion.
+abstract: 'This event introduced girls between the ages of 15 and 18 to the world of biomedical engineering through interactive presentations, group discussions with qualified engineers, video demonstrations, an indepth Q&A session and a hands-on microcontroller programming exercise to analyse photoplethysmography signals. The benefits of having attended this workshop included:' |-
+'1. Learning about the engineering and biomedical engineering field to assess whether
+this is a viable career option
+2. Gaining resources to plan a career in biomedical engineering
+3. Interacting with biomedical engineering graduates and mentors
+4. Developing technological skills in coding, sensor interfacing and biomedical signals
+through a hands-on biomedical engineering activity'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
