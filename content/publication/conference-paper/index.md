@@ -28,13 +28,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *9th European Conference on Social Media *
-publication_short: In *ECSM*
+publication: In the 9th European Conference on Social Media 
+publication_short: In ECSM
 
 abstract: Healthcare professionals’ harness social media to encourage responsible behaviour during the COVID-19 pandemic. As internet users often struggle assessing the veracity of the information in these addresses, acoustic characteristics of the presenters’ speech may play a significant role in their persuasiveness impact. Using a netnographic approach, we studied YouTubers’ reactions to explore the persuasiveness attributes of COVID-19 related speeches included in YouTube videos within a South Africa context. The persuasiveness index was computed from the view count, likes and dislikes of 314 speech segments from YouTube interviews related to COVID-19. Standard acoustic features – Mel frequency cepstral coefficients - of the interviewees’ voice were extracted through speech processing. Recurrent neural networks were optimized and evaluated the strength of these acoustic features to classify and predict the persuasiveness index. The cepstral feature set yielded a balanced accuracy of 86.8% and F1 score of 85.0%. These preliminary results exhibit the potential of the vocal cepstrum as predictor of persuasiveness in healthcare addresses on responsible behaviour during the COVID-19 pandemic. The results imply that quantitative acoustic analysis of a presenter’s voice, independent from text, can explain the impact of social media addresses.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: [COVID-19, Public address, Persuasiveness, YouTube videos, YouTube interviews, Deep Machine Learning, Speech Analysis]
 
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://papers.academic-conferences.org/index.php/ecsm/article/view/299'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
