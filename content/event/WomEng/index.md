@@ -9,7 +9,7 @@ address:
   street: 5 Wessel Road 
   city: Johannesburg
   region: 
-  postcode: ''
+  postcode: '2191'
   country: South Africa 
 
 
