@@ -13,7 +13,7 @@ address:
   country: South Africa 
 
 
-summary: The immersive workshop program aims to equip high school girls with an understanding of the field of biomedical engineering through hands on activities and discussion. 
+summary: An immersive workshop which aimed to provide teenage girls with an understanding of the biomedical engineering field through hands on activities and discussion. 
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
