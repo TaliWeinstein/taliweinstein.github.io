@@ -6,7 +6,7 @@ event_url: https://www.womeng.org/events/biomedical-engineering-unpacked-worksho
 
 location: WomEng Johannesburg HQ
 address:
-  street: 5 Wessel Road, Ground Floor, North East Building
+  street: 5 Wessel Road
   city: Johannesburg
   region: 
   postcode: '2191'
