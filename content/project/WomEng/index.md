@@ -16,7 +16,11 @@ links:
   - icon: calendar
     icon_pack: far
     name: Advert
-    url: "uploads/WomEng/VolenteerPack.pdf"
+    url: "uploads/WomEng/WomEng.pdf"
+  - icon: clock
+    icon_pack: far
+    name: Event Timeline
+    url: "uploads/WomEng/workshopAdd.pdf"
     # url: 'Biomedical Engineering Unpacked Workshop.pdf'
 # url_code: ''
 # url_pdf: 
