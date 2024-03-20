@@ -55,7 +55,7 @@ this is a viable career option <br/>
 2. Gaining resources to plan a career in biomedical engineering <br/> 
 3. Interacting with biomedical engineering graduates and mentors <br/> 
 4. Developing technological skills in coding, sensor interfacing and biomedical signals
-through a hands-on biomedical engineering activity'
+through a hands-on biomedical engineering activity
 
 # Roles and Responsibilities
 
