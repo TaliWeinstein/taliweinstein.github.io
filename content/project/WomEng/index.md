@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: calendar
+  - icon: hero/calendar
     icon_pack: hero
     name: Advert
     url: https://www.womeng.org/opportunities/1milliongirlsinstem-ambassador
