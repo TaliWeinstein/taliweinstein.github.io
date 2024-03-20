@@ -43,8 +43,7 @@ through a hands-on biomedical engineering activity'
 # Roles and Responsibilities
 
 Within my role as ambassador for the #1MillionGirlsinSTEM initiative via WomEng I created the Biomedical Unpacked Workshop. The creation of this event included:
-- Designing a [proposal](static/uploads/WomEng/Biomedical Engineering Unpacked Workshop.pdf) for event
-
+- Designing a {{% staticref "uploads/WomEng/Proposal For Ambassador Event .pdf" "newtab" %}}proposal for the event{{% /staticref %}} 
 
 
 
