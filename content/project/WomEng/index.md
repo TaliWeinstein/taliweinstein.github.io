@@ -28,7 +28,7 @@ links:
   - icon: file
     icon_pack: far
     name: Student Pack
-    url:  "uploads/WomEng/studentPack.pdf"
+    url:  "uploads/WomEng/StudentPack.pdf"
   - icon: file
     icon_pack: far
     name: Volenteer Pack
