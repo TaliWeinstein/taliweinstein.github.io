@@ -50,7 +50,7 @@ As and ambassador on the #1MillionGirlsinSTEM initiative I created the Biomedica
 - Producing adverts, recruiting participants and producing application content
 - Screening applicants and producing indemnity forms 
 
-
+{{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
 ### Skills: 
 Event Planning, Fundraising, Participant Recruiting, Photoplethysmography Reading, STEM Education, Workshop Creation
