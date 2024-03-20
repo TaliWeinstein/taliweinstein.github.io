@@ -12,11 +12,11 @@ image:
   caption: Tanganani Mugivhi 
   focal_point: Smart
 
-# links:
-#   - icon: newspaper
-#     icon_pack: far
-#     name: News
-#     url: ''
+links:
+  - icon: calendar
+    icon_pack: hero
+    name: Advert
+    url: ''Biomedical Engineering Unpacked Workshop.pdf'
 # url_code: ''
 # url_pdf: 
 # # url_slides: 'https://www.wits.ac.za/news/latest-news/research-news/2021/2021-11/eie-open-day-2021.html'
