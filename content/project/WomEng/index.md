@@ -13,8 +13,8 @@ image:
   focal_point: Smart
 
 links:
-  - icon: hero/calendar
-    icon_pack: hero
+  - icon: fa-calendar-check-o
+    icon_pack: far
     name: Advert
     url: https://www.womeng.org/opportunities/1milliongirlsinstem-ambassador
     # url: 'Biomedical Engineering Unpacked Workshop.pdf'
