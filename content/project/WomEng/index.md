@@ -25,6 +25,10 @@ links:
     icon_pack: far
     name: Activity Pack
     url:  "uploads/WomEng/softwarePack.pdf"
+  - icon: github
+    icon_pack: fab
+    name: Github
+    url: 'https://github.com/TaliWeinstein/biomedUnpackedWorkshop'
   - icon: file
     icon_pack: far
     name: Student Pack
@@ -34,7 +38,8 @@ links:
     name: Volenteer Pack
     url:  "uploads/WomEng/VolenteerPack.pdf"
     # url: 'Biomedical Engineering Unpacked Workshop.pdf'
-url_code: 'https://github.com/TaliWeinstein/biomedUnpackedWorkshop'
+
+# url_code: 'https://github.com/TaliWeinstein/biomedUnpackedWorkshop'
 # url_pdf: 
 # # url_slides: 'https://www.wits.ac.za/news/latest-news/research-news/2021/2021-11/eie-open-day-2021.html'
 # url_video: ''
