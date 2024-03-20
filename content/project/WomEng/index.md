@@ -16,7 +16,7 @@ links:
   - icon: calendar
     icon_pack: far
     name: Advert
-    url: https://www.womeng.org/opportunities/1milliongirlsinstem-ambassador
+    url: {{% staticref "uploads/WomEng/Biomedical Engineering Unpacked Workshop.pdf" "newtab" %}}
     # url: 'Biomedical Engineering Unpacked Workshop.pdf'
 # url_code: ''
 # url_pdf: 
