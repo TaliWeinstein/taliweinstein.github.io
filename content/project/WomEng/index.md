@@ -1,6 +1,6 @@
 ---
 title:  Biomedical Unpacked Workshop Creation
-summary: Investigates the impact of spectral and cepstral acoustic features on persuasiveness in proof-of-concept study based on vocal characteristics.
+summary: Designed a full day workshop for high school girls to expose them to the field of biomedical engineering.
 tags:
   - Volenteering
 date: "2022-08-14T00:00:00Z"
@@ -16,11 +16,23 @@ links:
   - icon: calendar
     icon_pack: far
     name: Advert
-    url: "uploads/WomEng/WomEng.pdf"
+    url:  "uploads/WomEng/workshopAdd.pdf"
   - icon: clock
     icon_pack: far
     name: Event Timeline
-    url: "uploads/WomEng/workshopAdd.pdf"
+    url:  "uploads/WomEng/WomEng.pdf"
+  - icon: file
+    icon_pack: far
+    name: Activity Pack
+    url:  "uploads/WomEng/softwarePack.pdf"
+  - icon: file
+    icon_pack: far
+    name: Student Pack
+    url:  "uploads/WomEng/studentPack.pdf"
+  - icon: file
+    icon_pack: far
+    name: Volenteer Pack
+    url:  "uploads/WomEng/VolenteerPack.pdf"
     # url: 'Biomedical Engineering Unpacked Workshop.pdf'
 # url_code: ''
 # url_pdf: 
