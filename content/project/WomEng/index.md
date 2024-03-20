@@ -42,15 +42,15 @@ through a hands-on biomedical engineering activity'
 
 # Roles and Responsibilities
 
-As and ambassador on the #1MillionGirlsinSTEM initiative I created the Biomedical Unpacked Workshop. This role included:
-- Designing a proposal for WomEng
-- Planning a whole day workshop inclusive of presentation content, hands-on coding content, participant hand-outs, volenteer hand outs and volenteer training 
-- Fundraising for the requisite arduino microcontrollers needed for the activity
+Within my role as ambassador for the #1MillionGirlsinSTEM initiative via WomEng I created the Biomedical Unpacked Workshop. The creation of this event included:
+- Designing a {{% staticref "uploads/WomEng/Proposal For Ambassador Event.pdf" "newtab" %}}proposal{{% /staticref %}} for WomEng's approval
+- Planning a whole day workshop inclusive of presentation content, {{% staticref "uploads/WomEng/Solution Development Pack.pdf" "newtab" %}}hands-on coding activity and handout{{% /staticref %}},  {{% staticref "uploads/WomEng/StudentPack.pdf" "newtab" %}}participant handout{{% /staticref %}}, {{% staticref "uploads/WomEng/VolenteerPack.pdf" "newtab" %}}volenteer hand outs{{% /staticref %}} and volenteer training 
+- Fundraising via the School of Electrical and Information Engineering at the University of the Witwatersrand for the requisite arduino microcontrollers needed for the activity
 - Installing the relevent software onto rented laptops
-- Producing adverts, recruiting participants and producing application content
+- Producing {{% staticref "uploads/WomEng/Biomedical Engineering Unpacked Workshop.pdf" "newtab" %}}adverts{{% /staticref %}}, recruiting participants and producing application content
 - Screening applicants and producing indemnity forms 
 
-{{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+
 
 ### Skills: 
 Event Planning, Fundraising, Participant Recruiting, Photoplethysmography Reading, STEM Education, Workshop Creation
