@@ -46,6 +46,9 @@ url_code: 'https://github.com/TaliWeinstein/biomedUnpackedWorkshop'
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+
+events:
+  - WomEng
 ---
 
 # Overview

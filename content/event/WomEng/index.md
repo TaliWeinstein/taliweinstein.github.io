@@ -64,7 +64,7 @@ url_video: ''
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - example
+  - WomEng
 ---
 
 {{% callout note %}}
