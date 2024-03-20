@@ -1,6 +1,6 @@
 ---
 title:  Biomedical Unpacked Workshop Creation
-summary: Designed a full day workshop for high school girls to expose them to the field of biomedical engineering.
+summary: Designed a full day workshop for high school girls to uncover the field of biomedical engineering.
 tags:
   - Volenteering
 date: "2022-08-14T00:00:00Z"
@@ -59,26 +59,13 @@ through a hands-on biomedical engineering activity'
 
 # Roles and Responsibilities
 
-Within my role as ambassador for the #1MillionGirlsinSTEM initiative via WomEng I created the Biomedical Unpacked Workshop. The creation of this event included:
-{{% staticref "uploads/WomEng/Proposal For Ambassador Event .pdf" "newtab" %}}Proposal {{% /staticref %}} design for the event
-
-[Screenshot]("uploads/WomEng/Solution Development Pack.pdf" )
-<!-- - Planning a whole day workshop inclusive of:
-  - {{% staticref "uploads/WomEng/Solution Development Pack.pdf" "newtab" %}}hands-on coding activity and handout{{% /staticref %}}
-  - {{% staticref "uploads/WomEng/StudentPack.pdf" "newtab" %}}participant handout{{% /staticref %}}
-  {{% staticref "uploads/WomEng/VolenteerPack.pdf" "newtab" %}}volenteer hand outs{{% /staticref %}} 
-  - volenteer training  -->
-
-
-
-<!-- 
-{{% staticref "uploads/WomEng/Proposal For Ambassador Event .pdf" "newtab" %}}proposal{{% /staticref %}} for WomEng's approval
-- Planning a whole day workshop inclusive of presentation content, {{% staticref "uploads/WomEng/Solution Development Pack.pdf" "newtab" %}}hands-on coding activity and handout{{% /staticref %}},  {{% staticref "uploads/WomEng/StudentPack.pdf" "newtab" %}}participant handout{{% /staticref %}}, {{% staticref "uploads/WomEng/VolenteerPack.pdf" "newtab" %}}volenteer hand outs{{% /staticref %}} and volenteer training 
-- Fundraising via the School of Electrical and Information Engineering at the University of the Witwatersrand for the requisite arduino microcontrollers needed for the activity
+Within my role as ambassador for the WomEng #1MillionGirlsinSTEM initiative, I created, planned and presented a Biomedical Unpacked Workshop. The creation of this event included:
+- Designing a proposal for WomEng to introduce the benefits of this novel event
+- Planning a whole day workshop inclusive of presentation content, hands-on coding activity, participant handout, volenteer hand outs and volenteer training 
+- Fundraising via the School of Electrical and Information Engineering at the University of the Witwatersrand for the requisite arduino microcontrollers 
 - Installing the relevent software onto rented laptops
-- Producing {{% staticref "uploads/WomEng/Biomedical Engineering Unpacked Workshop.pdf" "newtab" %}}adverts{{% /staticref %}}, recruiting participants and producing application content
-- Screening applicants and producing indemnity forms  -->
-
+- Producing adverts, recruiting participants and producing application content
+- Screening applicants and producing indemnity forms 
 
 
 ### Skills: 
