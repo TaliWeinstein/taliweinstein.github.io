@@ -16,7 +16,7 @@ links:
   - icon: calendar
     icon_pack: far
     name: Advert
-    url: ./Biomedical Engineering Unpacked Workshop.pdf
+    url: WomEng.pdf
     # url: 'Biomedical Engineering Unpacked Workshop.pdf'
 # url_code: ''
 # url_pdf: 
