@@ -65,5 +65,10 @@ projects:
   - WomEng
 ---
 
+![volenteers](volenteers1.png)
 
+![myPresenting](myPresenting.png)
 
+![discussion](discussionGroups.png)
+
+![coding](coding.png)
