@@ -67,7 +67,13 @@ projects:
 
 ![volenteers](volenteers1.png)
 
+The day kicked off with the arrival of my dedicated team of volenteers ([Sansha Gupta](https://www.linkedin.com/in/sansha-gupta-b94810184/), [Victoria Bench](https://www.linkedin.com/in/victoria-bench-258b1baa/), [Alice Drozdov](https://www.linkedin.com/in/alice-drozdov-005552180/) and [Sharon Evans](https://www.linkedin.com/in/sharon-evans-6b0ab1187/)) to assist in the setup for the day. Their role throughout the day was to assist in the running of the discussion groups, answering the participants questions, providing flash mentorship within the program and provide technical support during the coding activity. 
+
 ![myPresenting](myPresenting.png)
+
+
+
+
 
 ![discussion](discussionGroups.png)
 
