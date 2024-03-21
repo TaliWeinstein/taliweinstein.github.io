@@ -40,10 +40,10 @@ links:
     icon_pack: far
     name: Advert
     url: https://twitter.com/WitsUniversity/status/1452628422170140674
-  # - icon: desktop
-  #   icon_pack: fas
-  #   name: Slides
-  #   url: "uploads/WomEng/slides.pdf"
+  - icon: clock
+    icon_pack: far
+    name: Itinerary
+    url: "uploads/ImpackofAcoustic/EIEWomanConference.pdf"
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -62,5 +62,5 @@ url_video: ''
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - WomEng
+  -  - The Impact of Acoustic Features on the Persuasiveness of COVID-19 Lifestyle Speeches_ Spectral and Cepstral Features
 ---
