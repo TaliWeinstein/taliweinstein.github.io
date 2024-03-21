@@ -35,6 +35,9 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+
+events:
+- ImpactofAcoustic 
 ---
 
 This project explored the persuasive impact of South African COVID-19 lifestyle speeches through a proof-of-concept investigation using eNCA interviews extracted from YouTube. Using generated spectral and cepstral features from interview audio, a neural network compares their impact on persuasiveness. The cepstral feature set outperforms the spectral set, with a balanced accuracy of 86.8% and an F1 of 85.0%, indicating its higher predictive power despite challenges like overfitting and dataset size. This project was completed with [Gershon Koral](https://www.linkedin.com/in/gershon-koral-354822148/).
