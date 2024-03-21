@@ -42,4 +42,4 @@ links:
 
 
 ### Skills: 
-Anenometer, Arduino, Electrical Installation, Wind Turbine Creation
+Anenometer, Arduino, Electrical Installation, Renewable Energy, Wind Turbine Creation
