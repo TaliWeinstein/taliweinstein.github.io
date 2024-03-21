@@ -17,6 +17,10 @@ links:
     icon_pack: far
     name: Advert
     url:  "uploads/WomEng/workshopAdd.pdf"
+  - icon: calendar
+    icon_pack: far
+    name: proposal
+    url:  "proposal.pdf"
   - icon: clock
     icon_pack: far
     name: Event Timeline
