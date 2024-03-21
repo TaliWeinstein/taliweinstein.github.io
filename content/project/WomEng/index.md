@@ -17,10 +17,6 @@ links:
     icon_pack: far
     name: Advert
     url:  "uploads/WomEng/workshopAdd.pdf"
-  - icon: calendar
-    icon_pack: far
-    name: proposal
-    url:  "proposal.pdf"
   - icon: clock
     icon_pack: far
     name: Event Timeline
@@ -73,10 +69,10 @@ through a hands-on biomedical engineering activity
 
 Within my role as ambassador for the WomEng #1MillionGirlsinSTEM initiative, I created, planned and presented a Biomedical Unpacked Workshop. The creation of this event included:
 - Designing a [proposal](proposal.pdf) for WomEng to introduce the benefits of this novel event.
-- Planning a whole day workshop inclusive of [presentation content](/uploads/WomEng/slides.pdf), hands-on coding activity, participant handout, volenteer hand outs and volenteer training.
+- Planning a whole day workshop inclusive of [presentation content](/uploads/WomEng/slides.pdf), [hands-on coding activity](https://github.com/TaliWeinstein/biomedUnpackedWorkshop), [participant handout](/uploads/WomEng/StudentPack.pdf), [volenteer hand outs](VolenteerPack) and volenteer training.
 - Fundraising via the School of Electrical and Information Engineering at the University of the Witwatersrand for the requisite arduino microcontrollers.
 - Installing the relevent software onto rented laptops.
-- Producing adverts, recruiting participants and producing application content.
+- Producing [adverts](workshopAdd.pdf), recruiting participants and producing application content.
 - Screening applicants and producing indemnity forms.
 
 
