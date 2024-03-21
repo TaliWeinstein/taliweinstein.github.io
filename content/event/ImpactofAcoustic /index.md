@@ -4,13 +4,13 @@ title: The Impact of Acoustic Features on the Persuasiveness of Covid-19 Lifesty
 event:  Wits EIE Woman's Conference 2021
 event_url: 'https://www.wits.ac.za/eie/events/past-event-archive/eie-womens-conference-2021/'
 
-location: WomEng Johannesburg HQ
-address:
-  street: 5 Wessel Road 
-  city: Johannesburg
-  region: 
-  postcode: '2191'
-  country: South Africa 
+location: Online
+# address:
+#   street: 5 Wessel Road 
+#   city: Johannesburg
+#   region: 
+#   postcode: '2191'
+#   country: South Africa 
 
 
 summary: An immersive workshop in 2022 which aimed to provide teenage girls with an understanding of the biomedical engineering field through hands on activities and discussion.
