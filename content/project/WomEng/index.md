@@ -68,12 +68,12 @@ through a hands-on biomedical engineering activity
 # Roles and Responsibilities
 
 Within my role as ambassador for the WomEng #1MillionGirlsinSTEM initiative, I created, planned and presented a Biomedical Unpacked Workshop. The creation of this event included:
-- Designing a [proposal](proposal.pdf) for WomEng to introduce the benefits of this novel event
-- Planning a whole day workshop inclusive of [presentation content](/static/uploads/WomEng/slides.pdf), hands-on coding activity, participant handout, volenteer hand outs and volenteer training 
-- Fundraising via the School of Electrical and Information Engineering at the University of the Witwatersrand for the requisite arduino microcontrollers 
-- Installing the relevent software onto rented laptops
-- Producing adverts, recruiting participants and producing application content
-- Screening applicants and producing indemnity forms 
+- Designing a [proposal](proposal.pdf) for WomEng to introduce the benefits of this novel event.
+- Planning a whole day workshop inclusive of [presentation content](/static/uploads/WomEng/slides.pdf), hands-on coding activity, participant handout, volenteer hand outs and volenteer training.
+- Fundraising via the School of Electrical and Information Engineering at the University of the Witwatersrand for the requisite arduino microcontrollers.
+- Installing the relevent software onto rented laptops.
+- Producing adverts, recruiting participants and producing application content.
+- Screening applicants and producing indemnity forms.
 
 
 ### Skills: 
