@@ -13,7 +13,7 @@ location: Online
 #   country: South Africa 
 
 
-summary: An immersive workshop in 2022 which aimed to provide teenage girls with an understanding of the biomedical engineering field through hands on activities and discussion.
+summary: This online conference provided a platform to share the results of my research into acoustic features of persuasiveness with the wider University of the Witwatersrand community. 
 abstract: 'This event introduced girls between the ages of 15 and 18 to the world of biomedical engineering through interactive presentations, group discussions with qualified engineers, video demonstrations, an indepth Q&A session and a hands-on microcontroller programming exercise to analyse photoplethysmography signals. Within my role as presenter, educator, co-ordinator and facilitator -  I was responisble for ensuring that the worskhop ran smoothly while still delivering the workshop content. The workshop ran over a 4 hour period overwhich I presented to the group of 30 girls, assisted with the volenteer discussions, ran the coding solution development and provided directed assistance to the girls during the coding activity.'
 
 # Talk start and end times.
@@ -32,14 +32,14 @@ tags: [Biomedical Engineering, Microcontrollers, Photoplethysmography, Women Emp
 featured: false
 
 image:
-  caption: 'Tanganani Mugivhi'
+  caption: 'Alice Drozdov'
   focal_point: Right
 
 links:
   - icon: calendar
     icon_pack: far
     name: Advert
-    url: https://twitter.com/_WomEng/status/1555214539481817089
+    url: https://twitter.com/WitsUniversity/status/1452628422170140674
   # - icon: desktop
   #   icon_pack: fas
   #   name: Slides
