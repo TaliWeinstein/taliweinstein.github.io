@@ -71,10 +71,12 @@ The day kicked off with the arrival of my dedicated team of volenteers ([Sansha 
 
 ![myPresenting](myPresenting.png)
 
-
-
-
+My primary role throughout the day was the delivery of the [workshop content](/uploads/WomEng/slides.pdf). This took the form of a 4 hour long presentation divided into different sections such as discussing what an engineer is, what a biomedical engineer does and what makes for a good engineer. Embedded within my presentation delivery was the facillitating of discussion groups. 
 
 ![discussion](discussionGroups.png)
 
+The [discussion groups](/uploads/WomEng/VolenteerPack.pdf) took the form of brainstorming possible problems within the biomedical space that the girls may have encountered in their lived experience or may have an interest in solving. 
+
 ![coding](coding.png)
+
+The highlight of the event, however, was the [coding activity](https://github.com/TaliWeinstein/biomedUnpackedWorkshop). This 
