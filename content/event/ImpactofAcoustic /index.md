@@ -13,7 +13,6 @@ location: Online
 #   country: South Africa 
 
 
-The School of Electrical and Information Engineering is excited to present our first Virtual Women's Conference! STEM fields have been historically dominated by men, however, in recent years there has been an increase in women applicants, graduates and postgraduate students in these fields. The Women's conference will be an opportunity to shine a spotlight on the dynamic interventions that women are making in STEM. The Conference will host keynote speakers and provide an opportunity for women in undergraduate and postgraduate degrees, and staff members to present their research over a two day virtual conference.
 
 summary: This online conference provided a platform to share the results of my research into acoustic features of persuasiveness with the wider University of the Witwatersrand community. 
 abstract: ''
