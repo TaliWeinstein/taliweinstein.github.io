@@ -13,8 +13,12 @@ location: Online
 #   country: South Africa 
 
 
+
 summary: This online conference provided a platform to share the results of my research into acoustic features of persuasiveness with the wider University of the Witwatersrand community. 
-abstract: 'This event introduced girls between the ages of 15 and 18 to the world of biomedical engineering through interactive presentations, group discussions with qualified engineers, video demonstrations, an indepth Q&A session and a hands-on microcontroller programming exercise to analyse photoplethysmography signals. Within my role as presenter, educator, co-ordinator and facilitator -  I was responisble for ensuring that the worskhop ran smoothly while still delivering the workshop content. The workshop ran over a 4 hour period overwhich I presented to the group of 30 girls, assisted with the volenteer discussions, ran the coding solution development and provided directed assistance to the girls during the coding activity.'
+abstract: 'This two-day event brought together twenty women from across the University of the Witwatersrand to discuss and present their reserach. Participants included students (past and present), researchers and professionals in both private and public capacities. My presentation took place on the first day of the conference and won a third place prize for top undergraduate presentation.
+
+
+'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
