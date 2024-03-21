@@ -30,7 +30,7 @@ all_day: false
 publishDate: '2024-03-21T00:00:00Z'
 
 authors: [Taliya Weinstein]
-tags: [Biomedical Engineering, Microcontrollers, Photoplethysmography, Women Empowerment, WomEng]
+tags: [Biomedical Engineering, Machine Learning, Persuasiveness ,Speech Analytics, Women Empowerment]
 
 # Is this a featured talk? (true/false)
 featured: false
