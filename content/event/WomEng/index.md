@@ -40,14 +40,14 @@ links:
     icon_pack: fab
     name: Advert
     url: https://twitter.com/_WomEng/status/1555214539481817089
-  - icon: presentation-chart-bar
+  - icon: presentation-chart-bar-20-solid
     icon_pack: hero
     name: Slides
     url: "uploads/WomEng/slides.pdf"
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'uploads/WomEng/slides.pdf'
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
