@@ -175,8 +175,8 @@ sections:
           tag: Software
         - name: Hardware
           tag: Hardware
-        - name: Volenteering
-          tag: Volenteering
+        - name: Volunteering
+          tag: Volunteering
         - name: Other
           tag: Other
     design:

@@ -2,7 +2,7 @@
 title:  Biomedical Unpacked Workshop Creation
 summary: Designed a full day workshop for high school girls to uncover the field of biomedical engineering.
 tags:
-  - Volenteering
+  - Volunteering
 date: "2022-08-14T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
