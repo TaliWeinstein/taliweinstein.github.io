@@ -2,15 +2,15 @@
 title: The Impact of Acoustic Features on the Persuasiveness of Covid-19 Lifestyle Speeches
 
 event: Wits EIE Woman's Conference 2021
-event_url: https://www.wits.ac.za/eie/events/past-event-archive/eie-womens-conference-2021/
+event_url: 'https://www.wits.ac.za/eie/events/past-event-archive/eie-womens-conference-2021/'
 
 location: Online 
-# address:
-#   street: 5 Wessel Road 
-#   city: Johannesburg
-#   region: 
-#   postcode: '2191'
-#   country: South Africa 
+address:
+  street: 5 Wessel Road 
+  city: Johannesburg
+  region: 
+  postcode: '2191'
+  country: South Africa 
 
 
 
@@ -38,7 +38,7 @@ image:
 
 links:
   - icon: clock
-    icon_pack: fas
+    icon_pack: far
     name: Itinerary
     url: "uploads/ImpackofAcoustic/EIEWomanConference.pdf"
   # - icon: desktop
