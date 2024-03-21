@@ -1,5 +1,5 @@
 ---
-title: 
+title: The Impact of Acoustic Features on the Persuasiveness of Covid-19 Lifestyle Speeches
 
 event: Wits EIE Woman's Conference 2021
 event_url: https://www.wits.ac.za/eie/events/past-event-archive/eie-womens-conference-2021/
