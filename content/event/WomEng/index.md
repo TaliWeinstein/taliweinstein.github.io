@@ -40,6 +40,10 @@ links:
     icon_pack: fab
     name: Advert
     url: https://twitter.com/_WomEng/status/1555214539481817089
+  - icon: presentation
+    icon_pack: far
+    name: Slides
+    url: "uploads/WomEng/slides.pdf"
 url_code: ''
 url_pdf: ''
 url_slides: ''
