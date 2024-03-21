@@ -1,10 +1,10 @@
 ---
-title: The Impact of Acoustic Features on the Persuasiveness of Covid-19 Lifestyle Speeches
+title: Bro plz
 
-event: Wits EIE Woman's Conference 2021
-event_url: 'https://www.wits.ac.za/eie/events/past-event-archive/eie-womens-conference-2021/'
+event: 1MillionGirlinSTEM Ambassador Event
+event_url: https://www.womeng.org/events/biomedical-engineering-unpacked-workshop
 
-location: Online 
+location: WomEng Johannesburg HQ
 address:
   street: 5 Wessel Road 
   city: Johannesburg
@@ -13,34 +13,33 @@ address:
   country: South Africa 
 
 
-
-summary: This online conference provided a platform to share the results of my research into acoustic features of persuasiveness with the wider University of the Witwatersrand community. 
-abstract: ''
+summary: An immersive workshop in 2022 which aimed to provide teenage girls with an understanding of the biomedical engineering field through hands on activities and discussion.
+abstract: 'This event introduced girls between the ages of 15 and 18 to the world of biomedical engineering through interactive presentations, group discussions with qualified engineers, video demonstrations, an indepth Q&A session and a hands-on microcontroller programming exercise to analyse photoplethysmography signals. Within my role as presenter, educator, co-ordinator and facilitator -  I was responisble for ensuring that the worskhop ran smoothly while still delivering the workshop content. The workshop ran over a 4 hour period overwhich I presented to the group of 30 girls, assisted with the volenteer discussions, ran the coding solution development and provided directed assistance to the girls during the coding activity.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-11-05T13:00:00Z'
-date_end: '2021-11-06T117:40:00Z'
+date: '2022-08-14T09:45:00Z'
+date_end: '2022-08-12T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-03-21T00:00:00Z'
+publishDate: '2024-03-19T00:00:00Z'
 
 authors: [Taliya Weinstein]
-tags: [Biomedical Engineering, Machine Learning, Persuasiveness ,Speech Analytics, Women Empowerment]
+tags: [Biomedical Engineering, Microcontrollers, Photoplethysmography, Women Empowerment, WomEng]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Alice Drozdov'
+  caption: 'Tanganani Mugivhi'
   focal_point: Right
 
 links:
-  - icon: clock
+  - icon: calendar
     icon_pack: far
-    name: Itinerary
-    url: "uploads/ImpackofAcoustic/EIEWomanConference.pdf"
+    name: Advert
+    url: https://twitter.com/_WomEng/status/1555214539481817089
   # - icon: desktop
   #   icon_pack: fas
   #   name: Slides
@@ -62,6 +61,6 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects:
-#   - The Impact of Acoustic Features on the Persuasiveness of COVID-19 Lifestyle Speeches_ Spectral and Cepstral Features
+projects:
+  - WomEng
 ---
