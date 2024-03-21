@@ -17,7 +17,7 @@ links:
     icon_pack: fas
     name: Video
     url: 'https://youtu.be/8auWva52CLw'
-  - icon: Facebook
+  - icon: facebook-f
     icon_pack: fab
     name: Facebook Video
     url: 'https://www.facebook.com/WindAidInstitute/videos/10155145131792513'
