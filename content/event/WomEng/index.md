@@ -79,4 +79,4 @@ The [discussion groups](/uploads/WomEng/VolenteerPack.pdf) took the form of brai
 
 ![coding](coding.png)
 
-The highlight of the event, however, was the [coding activity](https://github.com/TaliWeinstein/biomedUnpackedWorkshop). This 
+The highlight of the event, however, was the [coding activity](https://github.com/TaliWeinstein/biomedUnpackedWorkshop). This activity required the girls to learn how to use the Adafruit Circuit Playground Classic MCU Development Board 3000 and the arduino IDE to read their photoplethysmography signal. 
