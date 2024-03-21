@@ -13,14 +13,14 @@ image:
   focal_point: Smart
 
 links:
-#   - icon: github
-#     icon_pack: fab
-#     name: Github
-#     url: 'https://github.com/TaliWeinstein/FundiStudyCoordinator/tree/main'
+  - icon: video
+    icon_pack: fas
+    name: Video
+    url: 'https://youtu.be/_V5vOOKuRwc'
 url_code: ''
 url_pdf: ''
 # url_slides: 'https://www.wits.ac.za/news/latest-news/research-news/2021/2021-11/eie-open-day-2021.html'
-url_video: 'https://youtu.be/_V5vOOKuRwc'
+# url_video: 'https://youtu.be/_V5vOOKuRwc'
 
 
 # Slides (optional).

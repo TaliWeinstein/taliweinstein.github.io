@@ -12,7 +12,7 @@ image:
   caption: Tali Weinstein and Ethan Zhou
   focal_point: Smart
 
-links:
+
 links:
   - icon: video
     icon_pack: fas
