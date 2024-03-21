@@ -47,7 +47,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'uploads/WomEng/slides.pdf'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
