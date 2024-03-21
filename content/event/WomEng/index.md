@@ -14,13 +14,7 @@ address:
 
 
 summary: An immersive workshop in 2022 which aimed to provide teenage girls with an understanding of the biomedical engineering field through hands on activities and discussion.
-abstract: 'This event introduced girls between the ages of 15 and 18 to the world of biomedical engineering through interactive presentations, group discussions with qualified engineers, video demonstrations, an indepth Q&A session and a hands-on microcontroller programming exercise to analyse photoplethysmography signals. The benefits of having attended this workshop included: <br/> 
-1. Learning about the engineering and biomedical engineering field to assess whether
-this is a viable career option <br/> 
-2. Gaining resources to plan a career in biomedical engineering <br/> 
-3. Interacting with biomedical engineering graduates and mentors <br/> 
-4. Developing technological skills in coding, sensor interfacing and biomedical signals
-through a hands-on biomedical engineering activity'
+abstract: 'This event introduced girls between the ages of 15 and 18 to the world of biomedical engineering through interactive presentations, group discussions with qualified engineers, video demonstrations, an indepth Q&A session and a hands-on microcontroller programming exercise to analyse photoplethysmography signals. Within my role as presenter, educator, co-ordinator and facilitator -  I was responisble for ensuring that the worskhop ran smoothly while still delivering the workshop content. The workshop ran over a 4 hour period overwhich I presented to the group of 30 girls, assisted with the volenteer discussions, ran the coding solution development and provided directed assistance to the girls during the coding activity.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
