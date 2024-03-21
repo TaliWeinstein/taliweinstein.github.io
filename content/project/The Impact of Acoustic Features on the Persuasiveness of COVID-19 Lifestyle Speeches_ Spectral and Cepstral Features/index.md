@@ -17,8 +17,14 @@ links:
     icon_pack: far
     name: News
     url: 'https://www.wits.ac.za/news/latest-news/research-news/2021/2021-11/eie-open-day-2021.html'
+  - icon:  file-pdf
+    icon_pack: far
+    name: PDF
+    url: 'https://papers.academic-conferences.org/index.php/ecsm/article/view/299'
+
+
 url_code: ''
-url_pdf: 'https://papers.academic-conferences.org/index.php/ecsm/article/view/299'
+# url_pdf: 'https://papers.academic-conferences.org/index.php/ecsm/article/view/299'
 # url_slides: 'https://www.wits.ac.za/news/latest-news/research-news/2021/2021-11/eie-open-day-2021.html'
 url_video: ''
 

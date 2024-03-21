@@ -13,14 +13,14 @@ image:
   focal_point: Smart
 
 # links:
-#   - icon: newspaper
-#     icon_pack: far
-#     name: News
-#     url: 'https://www.wits.ac.za/news/latest-news/research-news/2021/2021-11/eie-open-day-2021.html
-url_code: ''
-# url_pdf: 'https://papers.academic-conferences.org/index.php/ecsm/article/view/299'
-# url_slides: 'https://www.wits.ac.za/news/latest-news/research-news/2021/2021-11/eie-open-day-2021.html'
-url_video: 'https://youtu.be/n75w6wqE1MU'
+- icon: video
+  icon_pack: fas
+  name: Video
+  url: 'https://youtu.be/n75w6wqE1MU'
+# url_code: ''
+# # url_pdf: 'https://papers.academic-conferences.org/index.php/ecsm/article/view/299'
+# # url_slides: 'https://www.wits.ac.za/news/latest-news/research-news/2021/2021-11/eie-open-day-2021.html'
+# url_video: 'https://youtu.be/n75w6wqE1MU'
 
 
 # Slides (optional).

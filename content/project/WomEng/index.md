@@ -21,7 +21,7 @@ links:
     icon_pack: far
     name: Event Timeline
     url:  "uploads/WomEng/WomEng.pdf"
-  - icon: file
+  - icon: file-pdf
     icon_pack: far
     name: Activity Pack
     url:  "uploads/WomEng/softwarePack.pdf"
@@ -29,11 +29,11 @@ links:
     icon_pack: fab
     name: Github
     url: 'https://github.com/TaliWeinstein/biomedUnpackedWorkshop'
-  - icon: file
+  - icon: file-pdf
     icon_pack: far
     name: Student Pack
     url:  "uploads/WomEng/StudentPack.pdf"
-  - icon: file
+  - icon: file-pdf
     icon_pack: far
     name: Volenteer Pack
     url:  "uploads/WomEng/VolenteerPack.pdf"
