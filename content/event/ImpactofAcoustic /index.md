@@ -18,12 +18,12 @@ abstract: 'This event introduced girls between the ages of 15 and 18 to the worl
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-08-14T09:45:00Z'
-date_end: '2022-08-12T15:00:00Z'
+date: '2021-11-05T13:00:00Z'
+date_end: '2021-11-06T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-03-19T00:00:00Z'
+publishDate: '2024-03-21T00:00:00Z'
 
 authors: [Taliya Weinstein]
 tags: [Biomedical Engineering, Microcontrollers, Photoplethysmography, Women Empowerment, WomEng]
