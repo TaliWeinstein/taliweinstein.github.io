@@ -40,7 +40,7 @@ links:
 
 # Overview:
 
-WindAid is a non-profit organisation operating out of Trujillo, Peru with the aim of providing wind energy solutions to communities inaccessible to standard grid electricity, especially in underserved rural communities. WinAid attracts international students and professionals to assist on their programs which aim to have a new wind turbine built and installed over the month program. 
+[WindAid](https://windaid.org/) is a non-profit organisation operating out of Trujillo, Peru with the aim of providing wind energy solutions to communities inaccessible to standard grid electricity, especially in underserved rural communities. WinAid attracts international students and professionals to assist on their programs which aim to have a new wind turbine built and installed over the month program. 
 
 ![basePrep](basePrep.png)
 
