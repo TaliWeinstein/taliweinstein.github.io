@@ -253,7 +253,7 @@ sections:
       text: |-
        Get in touch!
       # Contact (add or remove contact options as necessary)
-      email: tjw22@ic.ac.uk
+      # email: tjw22@ic.ac.uk
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
@@ -284,16 +284,16 @@ sections:
       #     icon_pack: fas
       #     name: Zoom Me
       #     link: 'https://zoom.com'
-      # # Automatically link email and phone or display as text?
-      # autolink: true
-      # # Email form provider
-      # form:
-      #   provider: netlify
-      #   formspree:
-      #     id:
-      #   netlify:
-      #     # Enable CAPTCHA challenge to reduce spam?
-      #     captcha: false
+      # Automatically link email and phone or display as text?
+      autolink: true
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
     design:
       columns: '2'
 ---
