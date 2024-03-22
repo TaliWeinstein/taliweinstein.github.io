@@ -31,7 +31,7 @@ url_video: ''
 # slides: example
 ---
 
-In this final course project for the final year class of Data Intensive Processing, algorithms to produce a 5-number summary of a large corpus of data in C++ and with multiple threads. The aim of this program is to analyse sets of daily precipitation data. The data is made available by the Global Precipitation Climatology Centre (GPCC). The program will output all the values necessary for a box-and-whisker plot. Processing has been implemented using MPI. The program accepts inputs for the dataset, range of years to be analysed, and whether to include zeros in the analysis. The necessary error checks are performed on the input. This project was completed with [Aaron Fainman](https://www.linkedin.com/in/aaron-fainman/) and  Nathan Jones.
+In this course project for the final year class of Data Intensive Processing, algorithms to produce a 5-number summary of a large corpus of data in C++ and with multiple threads. The aim of this program is to analyse sets of daily precipitation data. The data is made available by the Global Precipitation Climatology Centre (GPCC). The program will output all the values necessary for a box-and-whisker plot. Processing has been implemented using MPI. The program accepts inputs for the dataset, range of years to be analysed, and whether to include zeros in the analysis. The necessary error checks are performed on the input. This project was completed with [Aaron Fainman](https://www.linkedin.com/in/aaron-fainman/) and  Nathan Jones.
 
 
 ### Skills: 
