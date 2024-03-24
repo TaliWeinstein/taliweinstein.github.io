@@ -74,7 +74,7 @@ My primary role throughout the day was the delivery of the [workshop content](/u
 
 ![discussion](discussionGroups.png)
 
-The [discussion groups](/uploads/WomEng/VolenteerPack.pdf) took the form of brainstorming possible problems within the biomedical space that the girls may have encountered in their lived experience or may have an interest in solving. 
+The [discussion groups](/uploads/WomEng/VolunteerPack.pdf) took the form of brainstorming possible problems within the biomedical space that the girls may have encountered in their lived experience or may have an interest in solving. 
 
 ![coding](coding.png)
 
