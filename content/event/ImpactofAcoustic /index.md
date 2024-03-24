@@ -15,7 +15,7 @@ location: Online
 
 
 summary: This online conference provided a platform to share the results of my research into acoustic features of persuasiveness with the wider University of the Witwatersrand community. 
-abstract: 'This two-day event brought together twenty women from across the University of the Witwatersrand to discuss and present their reserach. Participants included students (past and present), researchers and professionals in both private and public capacities. My presentation took place on the first day of the conference and won a third place prize for top undergraduate presentation.
+abstract: 'This two-day event brought together twenty women from across the University of the Witwatersrand to discuss and present their research. Participants included students (past and present), researchers, and professionals in both private and public capacities. My presentation took place on the first day of the conference and won a third-place prize for top undergraduate presentation.
 
 
 '
