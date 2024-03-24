@@ -1,6 +1,6 @@
 ---
 title:  The Impact of Acoustic Features on the Persuasiveness of COVID-19 Lifestyle Speeches- Spectral and Cepstral Features
-summary: Investigates the impact of spectral and cepstral acoustic features on persuasiveness in proof-of-concept study based on vocal characteristics.
+summary:  Investigates the impact of spectral and cepstral acoustic features on persuasiveness in a proof-of-concept study based on vocal characteristics.
 tags:
   - Software
 date: "2021-10-27T00:00:00Z"

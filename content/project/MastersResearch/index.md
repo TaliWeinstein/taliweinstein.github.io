@@ -36,7 +36,7 @@ links:
 # slides: example
 ---
 
-A novel PEDOT: PSS-modified cotton thread (PECOTEX) was produced for sensor embroidery into T-shirts. This modified PECOTEX thread was interfaced with a commercial flexible printed boards to monitor ECG signals from the clothing wearer. Originally, a T-shirt was utilised (as in the [video](https://youtu.be/n75w6wqE1MU)). Thereafter, a sportsbra was utilised for better skin contact. This project earned me the top Bioengineering student award for best thesis at Imperial College London. 
+A novel PEDOT: PSS-modified cotton thread (PECOTEX) was produced for sensor embroidery into T-shirts. This modified PECOTEX thread was interfaced with a commercial flexible printed board to monitor ECG signals from the clothing wearer. Originally, a T-shirt was utilised (as in the [video](https://youtu.be/n75w6wqE1MU)). Thereafter, a sports bra was utilised for better skin contact. This project earned me the top Bioengineering student award for best thesis at Imperial College London. 
 
 
 

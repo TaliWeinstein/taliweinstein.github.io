@@ -31,7 +31,7 @@ links:
 # slides: example
 ---
 
-In this MRes course project for the Computational and Statistical Methods course, blood pressure data for a placebo and treatment group is statistically analysed via Python in a Jupyter notebook. The core focus of the project was utilising statistical analysis to arrive at conclusions and graphically represent the data. The project is self contained with the data included for running the notebook. 
+In this MRes course project for the Computational and Statistical Methods course, blood pressure data for a placebo and treatment group is statistically analysed via Python in a Jupyter notebook. The core focus of the project was utilising the statistical analysis to arrive at conclusions and graphically represent the data. The project is self-contained with the data included for running the notebook. 
 
 
 

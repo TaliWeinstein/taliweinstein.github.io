@@ -1,6 +1,6 @@
 ---
 title:  Fundi Study Coordinator
-summary: A web application development project enabling backend, frontend and agile workflow.
+summary: A web application development project enabling backend, frontend, and agile workflow.
 tags:
   - Software 
 date: "2021-04-27T00:00:00Z"
