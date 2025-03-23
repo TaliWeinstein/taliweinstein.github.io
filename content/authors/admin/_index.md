@@ -92,10 +92,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
-  #   label: Follow me on Twitter
+  - icon: laptop
+    icon_pack: fab
+    link: https://www.nannyml.com/blog/authors/taliya-weinstein
     display:
       header: true
   - icon: 'google-scholar' # Alternatively, use `google-scholar` icon from `ai` icon pack
