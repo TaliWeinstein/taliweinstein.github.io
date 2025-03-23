@@ -14,11 +14,8 @@ location: Online
 
 
 
-summary: The IndabaX Benin Republic conference aims to provide Beninois an opportunity to engage with new developments in AI, with the 2024 Benin event offering talks and coding challenges to ~150 attendees.
-abstract: Deep Learning Indaba is an annual gathering of the African machine learning and AI community, focused on teaching, research, and exchange around cutting-edge developments in the field. IndabaX Benin Republic, part of this broader initiative, held a three-day hybrid conference in 2024 to build local capacity in machine learning through talks and hands-on coding sessions for students, professionals, and AI enthusiasts.
-
-
-'
+summary: IndabaX Benin Republic held a three-day hybrid conference in 2024 to build local capacity in machine learning through talks and hands-on coding sessions for students, professionals, and AI enthusiasts to ~150 attendees.
+abstract: 'IndabaX Benin Republic had a number of different internatonal speakers focusing on various aspects of machine leanring advancement from AI for Financial Inclusion in Africa to Building Resilient Models. I was contacted by Jeremiah Olámíjùwón, the conference organizer, to give a presentation on Bridging the Gender Gap in AI.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
