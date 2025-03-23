@@ -92,8 +92,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: laptop
-    icon_pack: fab
+  - icon: fa-laptop-code
+    icon_pack: fas
     link: https://www.nannyml.com/blog/authors/taliya-weinstein
     # display:
     #   header: true
