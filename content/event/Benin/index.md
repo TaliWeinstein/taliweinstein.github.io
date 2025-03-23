@@ -37,17 +37,19 @@ image:
   focal_point: Right
 
 links:
-  - icon: face-smile
-    icon_pack: far
-    name: Profile
-    url: 'uploads/Benin/SpeakerProfileTaliya.pdf'
+  # - icon: face-smile
+  #   icon_pack: far
+  #   name: Profile
+  #   url: 
+    #'uploads/Benin/SpeakerProfileTaliya.pdf'
   - icon: clock
     icon_pack: far
     name: Itinerary
     url: https://docs.google.com/document/d/e/2PACX-1vSi_EEYTvrJFcwD8pktTs9AWpLP6pyBALH4toJ-6HTuPhByn_vetIxDc15U0u_725JsgGqixI_lnLsF/pub
 url_code: ''
 url_pdf: ''
-url_slides: 'uploads/Benin/reducedSlides.pdf'
+url_slides: 
+#'uploads/Benin/reducedSlides.pdf'
 url_video: 'https://youtu.be/rga0al5we8k'
 
 # Markdown Slides (optional).
