@@ -92,9 +92,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: desktop
-    icon_pack: fas
-    link: https://www.nannyml.com/blog/authors/taliya-weinstein
+  # - icon: desktop
+  #   icon_pack: fas
+  #   link: https://www.nannyml.com/blog/authors/taliya-weinstein
     # display:
     #   header: true
   - icon: 'google-scholar' # Alternatively, use `google-scholar` icon from `ai` icon pack
