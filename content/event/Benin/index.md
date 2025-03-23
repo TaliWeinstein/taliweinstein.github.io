@@ -66,5 +66,5 @@ url_video: 'https://youtu.be/rga0al5we8k'
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  
+  -
 ---
