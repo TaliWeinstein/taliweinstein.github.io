@@ -40,7 +40,7 @@ links:
   - icon: face-smile
     icon_pack: far
     name: Profile
-    url: "SpeakerProfileTaliya.pdf"
+    url: 'SpeakerProfileTaliya.pdf'
   - icon: clock
     icon_pack: far
     name: Itinerary
