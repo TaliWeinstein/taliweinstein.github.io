@@ -1,5 +1,5 @@
 ---
-title: Women in AI: Bridging the Gender Gap in Technology
+title: 'Women in AI: Bridging the Gender Gap in Technology'
 
 event: IndabaX Benin Republic
 event_url: 'https://docs.google.com/document/d/e/2PACX-1vSi_EEYTvrJFcwD8pktTs9AWpLP6pyBALH4toJ-6HTuPhByn_vetIxDc15U0u_725JsgGqixI_lnLsF/pub'
