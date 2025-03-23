@@ -1,9 +1,9 @@
 ---
-title:  Data Science for Healthcare 
+title:  Data Science for Healthcare Workshop - Deep Learning Indaba 2024
 summary: Algorithm to produce a 5-number summary of a large corpus of data in C++ and with multiple threads. 
 tags:
-  - Software
-date: "2021-05-15T00:00:00Z"
+  - Volunteering
+date: "2024-09-7T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
