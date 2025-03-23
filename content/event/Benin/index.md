@@ -15,7 +15,7 @@ location: Online
 
 
 summary: IndabaX Benin Republic held a three-day hybrid conference in 2024 to build local capacity in machine learning through talks and hands-on coding sessions for students, professionals, and AI enthusiasts to ~150 attendees.
-abstract: 'IndabaX Benin Republic had a number of different internatonal speakers focusing on various aspects of machine leanring advancement from AI for Financial Inclusion in Africa to Building Resilient Models. I was contacted by Jeremiah Olámíjùwón, the conference organizer, to give a presentation on Bridging the Gender Gap in AI.'
+abstract: 'IndabaX Benin Republic had a number of different internatonal speakers focusing on various aspects of machine leanring advancement from AI for Financial Inclusion in Africa to Building Resilient Models. I was contacted by Jeremiah Olamijuwon, the conference organizer, to give a presentation on Bridging the Gender Gap in AI.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -33,7 +33,7 @@ tags: [AI, IndabaX, SisonkeBiotik, Women in Tech]
 featured: false
 
 image:
-  caption: 'Jeremiah Olámíjùwón'
+  caption: 'Jeremiah Olamijuwon'
   focal_point: Right
 
 links:
