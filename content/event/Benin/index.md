@@ -17,40 +17,38 @@ location: Online
 summary: IndabaX Benin Republic held a three-day hybrid conference in 2024 to build local capacity in machine learning through talks and hands-on coding sessions for students, professionals, and AI enthusiasts to ~150 attendees.
 abstract: 'IndabaX Benin Republic had a number of different internatonal speakers focusing on various aspects of machine leanring advancement from AI for Financial Inclusion in Africa to Building Resilient Models. I was contacted by Jeremiah Olamijuwon, the conference organizer, to give a presentation on Bridging the Gender Gap in AI.'
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-# date: '2024-11-21T13:00:00Z'
-# date_end: '2024-11-23T18:00:00Z'
-# all_day: false
+#Talk start and end times.
+  #End time can optionally be hidden by prefixing the line with `#`.
+date: '2024-11-21T13:00:00Z'
+date_end: '2024-11-23T18:00:00Z'
+all_day: false
 
-# # Schedule page publish date (NOT talk date).
-# publishDate: '2025-03-23T00:00:00Z'
+# Schedule page publish date (NOT talk date).
+publishDate: '2025-03-23T00:00:00Z'
 
-# authors: [Taliya Weinstein]
-# tags: [AI, IndabaX, SisonkeBiotik, Women in Tech]
+authors: [Taliya Weinstein]
+tags: [AI, IndabaX, SisonkeBiotik, Women in Tech]
 
-# # Is this a featured talk? (true/false)
-# featured: false
+# Is this a featured talk? (true/false)
+featured: false
 
-# image:
-#   caption: 'Jeremiah Olamijuwon'
-#   focal_point: Right
+image:
+  caption: 'Jeremiah Olamijuwon'
+  focal_point: Right
 
 links:
-  # - icon: face-smile
-  #   icon_pack: far
-  #   name: Profile
-  #   url: 
-#     #'uploads/Benin/SpeakerProfileTaliya.pdf'
-#   - icon: clock
-#     icon_pack: far
-#     name: Itinerary
-#     url: https://docs.google.com/document/d/e/2PACX-1vSi_EEYTvrJFcwD8pktTs9AWpLP6pyBALH4toJ-6HTuPhByn_vetIxDc15U0u_725JsgGqixI_lnLsF/pub
-# url_code: ''
-# url_pdf: ''
-# url_slides: 
-# #'uploads/Benin/reducedSlides.pdf'
-# url_video: 'https://youtu.be/rga0al5we8k'
+  - icon: face-smile
+    icon_pack: far
+    name: Profile
+    url: 'uploads/Benin/SpeakerProfileTaliya.pdf'
+  - icon: clock
+    icon_pack: far
+    name: Itinerary
+    url: https://docs.google.com/document/d/e/2PACX-1vSi_EEYTvrJFcwD8pktTs9AWpLP6pyBALH4toJ-6HTuPhByn_vetIxDc15U0u_725JsgGqixI_lnLsF/pub
+url_code: ''
+url_pdf: ''
+url_slides: 'uploads/Benin/reducedSlides.pdf'
+url_video: 'https://youtu.be/rga0al5we8k'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
