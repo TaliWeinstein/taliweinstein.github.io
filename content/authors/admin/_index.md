@@ -92,7 +92,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: fa-laptop-code
+  - icon: desktop
     icon_pack: fas
     link: https://www.nannyml.com/blog/authors/taliya-weinstein
     # display:
