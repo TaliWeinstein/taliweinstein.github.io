@@ -1,5 +1,5 @@
 ---
-title:  WinAid Wind Turbine Construction
+title:  WindAid Wind Turbine Construction
 summary: Throughout January 2017, I volunteered with WinAid to construct wind turbines for communities too far for conventional grid electricity within Peru.
 tags:
   - Volunteering
