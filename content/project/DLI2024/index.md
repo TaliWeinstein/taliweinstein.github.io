@@ -3,13 +3,13 @@ title: Data Science for Healthcare Workshop at Deep Learning Indaba 2024
 summary: Designed a full-day workshop for high school girls to uncover the field of biomedical engineering.
 tags:
   - Volunteering
-date: "2022-08-14T00:00:00Z"
+date: "2024-09-7T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
 
 image:
-  caption: Tanganani Mugivhi 
+  caption: Kwasi Darkwa
   focal_point: Smart
 
 links:
