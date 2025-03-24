@@ -1,6 +1,7 @@
 ---
 title: Data Science for Healthcare Workshop at Deep Learning Indaba 2024
-summary: Designed a full-day workshop for high school girls to uncover the field of biomedical engineering.
+summary: The DS4Health Africa workshop, part of Deep Learning Indaba, explores deep learning's role in transforming African healthcare through collaboration and knowledge exchange. 
+
 tags:
   - Volunteering
 date: "2024-09-7T00:00:00Z"
@@ -16,28 +17,13 @@ links:
   - icon: calendar
     icon_pack: far
     name: Advert
-    url:  "uploads/WomEng/workshopAdd.pdf"
+    url:  https://www.linkedin.com/events/datascienceforhealthworkshop7237104016520806401/comments/
   - icon: clock
     icon_pack: far
     name: Event Timeline
-    url:  "uploads/WomEng/WomEng.pdf"
-  - icon: file-pdf
-    icon_pack: far
-    name: Activity Pack
-    url:  "uploads/WomEng/softwarePack.pdf"
-  - icon: github
-    icon_pack: fab
-    name: Github
-    url: 'https://github.com/TaliWeinstein/biomedUnpackedWorkshop'
-  - icon: file-pdf
-    icon_pack: far
-    name: Student Pack
-    url:  "uploads/WomEng/StudentPack.pdf"
-  - icon: file-pdf
-    icon_pack: far
-    name:  Volunteer Pack
-    url:  "uploads/WomEng/VolunteerPack.pdf"
-    # url: 'Biomedical Engineering Unpacked Workshop.pdf'
+    url:  https://ro-ya-cv4africa.github.io/homepage/event_workshop.html
+
+
 
 # url_code: 'https://github.com/TaliWeinstein/biomedUnpackedWorkshop'
 # url_pdf: 
