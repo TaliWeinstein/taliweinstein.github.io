@@ -9,6 +9,15 @@ date: "2024-09-7T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
 
+location: U1 B12 University Amadou Makhtar Mbow
+address:
+  street: PRM2+QP2
+  city: Rufisque
+  region: 
+  postcode:
+  country: Senegal
+
+
 image:
   caption: Kwasi Darkwa
   focal_point: Smart
@@ -48,6 +57,8 @@ events:
 
 
 # Overview
+
+
 
 ![invitedSpeakers](invitedSpeakers.png)
 
