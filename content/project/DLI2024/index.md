@@ -51,6 +51,9 @@ events:
 
 # Overview
 
+## Location
+U1 B12 University Amadou Makhtar Mbow, Rufisque, Senegal
+
 The full day Data Science for Health workshop took place at the Deep Learning Indaba 2024 on the 6th of September. The workshop was organised with the intention of having casual exchnages of knowledge from external mentors as well as self-directed interaction acitvities to facilitate collaboration in future. 
 
 For the external mentors, we invited [Dr Mercy Asiedu](https://www.linkedin.com/in/mercy-n-asiedu/) and [MohammedElfatih MohamedKhair](https://www.linkedin.com/in/mohammedelfatih-mohamedkhair-0b29b4169/) from Google to present on the cutting edge AI techniques being applied in health care and disaster response respectively. This was followed up with an insightful tutorial [Gabriel Kallah-Dagadu](https://scholar.google.com/citations?user=tjlP04EAAAAJ&hl=en) to introduce participants to AI applied to healthcare data. 
@@ -84,8 +87,7 @@ From left in picture above:
 3. I facilitated the ethics panel and stepped in as a judge for the Lightning Talks. 
 4. After the event, I managed the accounting, fund distribution to prize winners, and compiled a detailed feedback report. 
 
-## Location
-U1 B12 University Amadou Makhtar Mbow, Rufisque, Senegal
+
 
 
 
