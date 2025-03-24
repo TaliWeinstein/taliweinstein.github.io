@@ -49,30 +49,35 @@ events:
 
 # Overview
 
+![invitedSpeakers](invitedSpeakers.png)
 
 
 The day kicked off with the arrival of my dedicated team of volunteers ([Sansha Gupta](https://www.linkedin.com/in/sansha-gupta-b94810184/), [Victoria Bench](https://www.linkedin.com/in/victoria-bench-258b1baa/), [Alice Drozdov](https://www.linkedin.com/in/alice-drozdov-005552180/) and [Sharon Evans](https://www.linkedin.com/in/sharon-evans-6b0ab1187/)) to assist in the setup for the day. Their role throughout the day was to assist in the running of the discussion groups, answer the participants' questions, provide flash mentorship within the program, and provide technical support during the coding activity. 
 
-
+![interactive_Activies](interactive_Activities.jng)
 
 My primary role throughout the day was the delivery of the [workshop content](/uploads/WomEng/slides.pdf). This took the form of a 4-hour-long presentation divided into different sections such as discussing what an engineer is, what a biomedical engineer does, and what makes for a good engineer. Embedded within my presentation delivery was the facilitation of discussion groups. 
 
 ![ethics_panel](ethics_panel.png)
 
-![interactive_Activies](interactive_Activities.jng)
 
-![invitedSpeakers](invitedSpeakers.png)
+
 
 
 
 The [discussion groups](/uploads/WomEng/VolenteerPack.pdf) took the form of brainstorming possible problems within the biomedical space that the girls may have encountered in their lived experience or may have an interest in solving. 
 
-![inPersonTeam](inPersonTeam.png)
+
 
 The highlight of the event, however, was the [coding activity](https://github.com/TaliWeinstein/biomedUnpackedWorkshop). This activity required the girls to learn how to use the Adafruit Circuit Playground Classic MCU Development Board 3000 and the Arduino IDE to read their photoplethysmography signal. 
 
-# Roles and Responsibilities
+![inPersonTeam](inPersonTeam.png)
 
+# Roles and Responsibilities
+1. I played a key leadership role in organizing the workshop, defining subgroup tasks, actively engaging in meetings, and creating feedback forms to support future improvements. 
+2. I was responsible for helping to secure speakers, organizing the AI in Healthcare Ethics panel, and sourcing prizes. In the lead-up to the event, I managed on-ground logistics, and handled challenges like speaker cancellations and a last-minute venue change. 
+3. I facilitated the ethics panel and stepped in as a judge for the Lightning Talks. 
+4. After the event, I managed the accounting, fund distribution to prize winners, and compiled a detailed feedback report. 
 
 ### Skills: 
 Technical Communication, Event Planning, Ethics Panel Moderator, Fundraising, Lightning Talk Judge, STEM Education, Team Coordination, Workshop Creation
