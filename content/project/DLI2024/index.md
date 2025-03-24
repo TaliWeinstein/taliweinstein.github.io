@@ -79,7 +79,7 @@ The day concluded with an ethics panel with panelists [Sibusisiwe Makhanya](http
 
 The workshop was enjoyed by the participants with the feedback forms reflecting that that attendees appreciated the mix of sessions and activites on offer. A big thank you to the in-person team of volunteers who made the workshop success a possibility! For a full list of organisers, see the website. 
 
-![inPersonTeam](inPersonTeam.png)
+![inPersonTeam](inPersonTeam.jpg)
 
 
 From left in picture above: 
