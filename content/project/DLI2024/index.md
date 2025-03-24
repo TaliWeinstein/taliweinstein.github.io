@@ -1,5 +1,5 @@
 ---
-title:  Biomedical Unpacked Workshop Creation
+title: Data Science for Healthcare Workshop at Deep Learning Indaba 2024
 summary: Designed a full-day workshop for high school girls to uncover the field of biomedical engineering.
 tags:
   - Volunteering
@@ -53,7 +53,7 @@ links:
 # slides: example
 
 events:
-  - WomEng
+  - 
 ---
 
 
