@@ -51,10 +51,14 @@ links:
     icon_pack: fas
     name: Slides
     url: 'uploads/Benin/reducedSlides.pdf'
+  - icon: video
+    icon_pack: fas
+    name: Video
+    url: 'https://youtu.be/rga0al5we8k'
 url_code: ''
 url_pdf: ''
 url_slides: 
-url_video: 'https://youtu.be/rga0al5we8k'
+url_video: 
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
