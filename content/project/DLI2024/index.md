@@ -21,7 +21,11 @@ links:
   - icon: clock
     icon_pack: far
     name: Event Timeline
-    url:  https://ro-ya-cv4africa.github.io/homepage/event_workshop.html
+    url: https://docs.google.com/spreadsheets/d/e/2PACX-1vT-hzt8SCtW9jefQaRqrlbqQmRYtNz1ITH0pX2SVNduiWumZ-l5aS8LLc_BvSEvPrfW3Dk4M041Q4CM/pubhtml?gid=2136432519&single=true
+  - icon: web
+    icon_pack: far
+    name: website
+    url: https://ro-ya-cv4africa.github.io/homepage/event_workshop.html
 
 
 
