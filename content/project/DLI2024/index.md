@@ -68,7 +68,7 @@ For the external mentors, we invited [Dr Mercy Asiedu](https://www.linkedin.com/
 We then moved onto the interactive portion of the day which consisted of a Design Dash, whereby participants were tasked with brainstorming an AI solution to a current problem facing African healthcare systems. This activity was well recieved by participants with many noting how the dynamics of idea formation and subsequent presentation helped with future collaboration options. We then moved onto the lightning talk section, whereby 5 participnat finalists were given 5 minutes to present their research to the workshop audience. This was judged by [Natasha Latysheva](https://www.linkedin.com/in/nslatysheva/) and myself. This was follwed with the finalists (chosen earlier in the week) of the ideathon presenting their solutions and the winner being announced. 
 
 
-![interactive_Activies](interactive_Activities.jng)
+![interactive_Activies](interactive_Activities.png)
 
 
 The day concluded with an ethics panel with panelists [Sibusisiwe Makhanya](https://www.linkedin.com/in/sibusisiwe-khuluse-makhanya/), senior research manager at IBM, [Mwigereri Dorcas](https://www.linkedin.com/in/mwigereri-dorcas-497b51b4/), AI in Health PhD researcher at Aga Khan University in Kenya, and [Dr Sekou Remy](https://www.linkedin.com/in/sekoulremy/), Seniour Research Scientist at IBM. The discussion ranged from the caution needed when deploying a model in a different location to where it was built, evaluating the need for the model at the problem level and the intracacies of applying for ethics when collecting or using secondary health data. 
