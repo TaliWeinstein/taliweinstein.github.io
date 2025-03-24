@@ -9,13 +9,6 @@ date: "2024-09-7T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
 
-location: U1 B12 University Amadou Makhtar Mbow
-address:
-  street: PRM2+QP2
-  city: Rufisque
-  region: 
-  postcode:
-  country: Senegal
 
 
 image:
@@ -58,7 +51,7 @@ events:
 
 # Overview
 
-The workshop was organised with the intention of having casual exchnages of knowledge from external mentors as well as self-directed interaction acitvities to facilitate collaboration in future. 
+The full day Data Science for Health workshop took place at the Deep Learning Indaba 2024 on the 6th of September. The workshop was organised with the intention of having casual exchnages of knowledge from external mentors as well as self-directed interaction acitvities to facilitate collaboration in future. 
 
 For the external mentors, we invited [Dr Mercy Asiedu](https://www.linkedin.com/in/mercy-n-asiedu/) and [MohammedElfatih MohamedKhair](https://www.linkedin.com/in/mohammedelfatih-mohamedkhair-0b29b4169/) from Google to present on the cutting edge AI techniques being applied in health care and disaster response respectively. This was followed up with an insightful tutorial [Gabriel Kallah-Dagadu](https://scholar.google.com/citations?user=tjlP04EAAAAJ&hl=en) to introduce participants to AI applied to healthcare data. 
 
@@ -90,6 +83,11 @@ From left in picture above:
 2. I was responsible for helping to secure speakers, organizing the AI in Healthcare Ethics panel, and sourcing prizes. In the lead-up to the event, I managed on-ground logistics, and handled challenges like speaker cancellations and a last-minute venue change. 
 3. I facilitated the ethics panel and stepped in as a judge for the Lightning Talks. 
 4. After the event, I managed the accounting, fund distribution to prize winners, and compiled a detailed feedback report. 
+
+## Location
+U1 B12 University Amadou Makhtar Mbow, Rufisque, Senegal
+
+
 
 ### Skills: 
 Technical Communication, Event Planning, Ethics Panel Moderator, Fundraising, Lightning Talk Judge, STEM Education, Team Coordination, Workshop Creation
