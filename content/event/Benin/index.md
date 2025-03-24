@@ -55,6 +55,7 @@ links:
     icon_pack: fas
     name: Video
     url: 'https://youtu.be/rga0al5we8k'
+
 url_code: ''
 url_pdf: ''
 url_slides: 
