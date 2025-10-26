@@ -3,6 +3,7 @@ title:  From Passive to Participatory: Healthcare Workshop Design for Continued 
 summary: Communicating the design of collaborative workshops for encouraging community building.
 tags:
   - Other
+featured: true
 date: "2025-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
