@@ -1,33 +1,30 @@
 ---
-title: Data Science for Healthcare Workshop at Deep Learning Indaba 2024
-summary: The DS4Health Africa workshop, part of Deep Learning Indaba, explores deep learning's role in transforming African healthcare through collaboration and knowledge exchange. 
+title: Data Science for Health in Africa Workshop at Deep Learning Indaba 2025
+summary: The 2025 DS4Health in Kigali showcased how feedback-driven design, collaboration, and innovation transformed the workshop into one of the conference’s most engaging and impactful events.
+
 
 tags:
   - Volunteering
-date: "2024-09-07T00:00:00Z"
+date: "2025-08-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
 
 
 
-image:
-  caption: Kwasi Darkwa
-  focal_point: Smart
+# image:
+#   caption: Kwasi Darkwa
+#   focal_point: Smart
 
 links:
   - icon: calendar
     icon_pack: far
     name: Advert
-    url:  https://www.linkedin.com/events/datascienceforhealthworkshop7237104016520806401/comments/
-  - icon: clock
-    icon_pack: far
-    name: Event Timeline
-    url: https://docs.google.com/spreadsheets/d/e/2PACX-1vT-hzt8SCtW9jefQaRqrlbqQmRYtNz1ITH0pX2SVNduiWumZ-l5aS8LLc_BvSEvPrfW3Dk4M041Q4CM/pubhtml?gid=2136432519&single=true
+    url:  https://www.linkedin.com/posts/deep-learning-indaba_full-day-workshops-2025-ugcPost-7364205938766966786-JimF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACqUsloBag9mXbm5f-mMxS0riu1t-_Z_M0c
   - icon: globe
     icon_pack: fas
     name: Website
-    url: https://ro-ya-cv4africa.github.io/homepage/event_workshop.html
+    url: https://ds4healthafrica.github.io/
 
 
 
@@ -52,44 +49,63 @@ events:
 # Overview
 
 ## Location
-U1 B12 University Amadou Makhtar Mbow, Rufisque, Senegal
-
-The full day Data Science for Health workshop took place at the Deep Learning Indaba 2024 on the 6th of September. The workshop was organised with the intention of having casual exchnages of knowledge from external mentors as well as self-directed interaction acitvities to facilitate collaboration in future. 
-
-For the external mentors, we invited [Dr Mercy Asiedu](https://www.linkedin.com/in/mercy-n-asiedu/) and [MohammedElfatih MohamedKhair](https://www.linkedin.com/in/mohammedelfatih-mohamedkhair-0b29b4169/) from Google to present on the cutting edge AI techniques being applied in health care and disaster response respectively. This was followed up with an insightful tutorial [Gabriel Kallah-Dagadu](https://scholar.google.com/citations?user=tjlP04EAAAAJ&hl=en) to introduce participants to AI applied to healthcare data. 
+Kigali, Rwanda
 
 
-![invitedSpeakers](invitedSpeakers.png)
+The Data Science for Health in Africa (DS4Health) workshop took place on 21 August 2025 at the Deep Learning Indaba in Kigali, Rwanda. The event marked the fourth edition of the workshop and its largest turnout to date, bringing together over 100 researchers, healthcare professionals, and technologists from across Africa. Building on lessons from 2024, the workshop used insights from feedback reports to refine its structure, improve outreach, and strengthen engagement — resulting in a dynamic, high-impact event. 
 
-We then moved onto the interactive portion of the day which consisted of a Design Dash, whereby participants were tasked with brainstorming an AI solution to a current problem facing African healthcare systems. This activity was well recieved by participants with many noting how the dynamics of idea formation and subsequent presentation helped with future collaboration options. We then moved onto the lightning talk section, whereby 5 participnat finalists were given 5 minutes to present their research to the workshop audience. This was judged by [Natasha Latysheva](https://www.linkedin.com/in/nslatysheva/) and myself. This was follwed with the finalists (chosen earlier in the week) of the ideathon presenting their solutions and the winner being announced. 
+![invitedSpeakers](keynote.png)
+
+The day began with a keynote by [Professor Michael Best](https://mikeb.inta.gatech.edu/) (Georgia Institute of Technology), who spoke on designing technology with the recipient community in mind. This was followed by a panel discussion on The State of AI for Healthcare Research in Africa. As moderator, I designed the question set, guided the discussion, and ensured that perspectives from academia, industry, and clinical care were interwoven to highlight both progress and challenges in African health AI research.
+
+![panel](panelDiscussion.png)
+Panelists included(from left):
+[Prof. Michael Best](https://mikeb.inta.gatech.edu/) – Georgia Institute of Technology
+[Dr. Rose Nakasi](https://cocis.mak.ac.ug/faculty/information-technology/rose-nakasi/) – Makerere University AI Health Lab
+[Dr. Arijit Patra](https://www.linkedin.com/in/arijit-patra-92a18457/) – UCB Biopharma UK / University of Glasgow
+[Dr. Tobi Olatunji](http://intron.io/) – Intron Health
+[Jay Patel](https://jacarandahealth.org/) – Jacaranda Health Chief Technical Officer
 
 
-![interactive_Activies](interactive_Activities.png)
+The workshop was intentionally participatory, emphasising collaboration and peer learning.
+The Lightning Talk Competition showcased the work of emerging African researchers. As Programming Chair, I coordinated submissions and selected the winning presentations based on scientific merit and clarity.
+
+![LightningTalks](lightningTalks.png)
+
+The MedGemma tutorial, led by Dr. Mercy Asiedu and Dr. Sekou Remy from Google Research, provided hands-on experience in AI for medical imaging. The Design Dash followed, challenging interdisciplinary teams to design AI solutions addressing real healthcare challenges.
+
+![DesignDash](DesignDash.png)
+
+The day concluded with the launch of the Google-Sponsored DS4Health Ideathon. The Ideathon occured over 3 stages, with a final live pitch on the 9th of October 2025. I assisted with the Ideathon logistics and hosted the [final live pitching event](https://cassyni.com/series/JWAjLmN99Z4fd8mCJR9w6i).
 
 
-The day concluded with an ethics panel with panelists [Sibusisiwe Makhanya](https://www.linkedin.com/in/sibusisiwe-khuluse-makhanya/), senior research manager at IBM, [Mwigereri Dorcas](https://www.linkedin.com/in/mwigereri-dorcas-497b51b4/), AI in Health PhD researcher at Aga Khan University in Kenya, and [Dr Sekou Remy](https://www.linkedin.com/in/sekoulremy/), Seniour Research Scientist at IBM. The discussion ranged from the caution needed when deploying a model in a different location to where it was built, evaluating the need for the model at the problem level and the intracacies of applying for ethics when collecting or using secondary health data. 
+![Ideathon](ideathon.png)
 
 
-![ethics_panel](ethics_panel.png)
 
 
-The workshop was enjoyed by the participants with the feedback forms reflecting that that attendees appreciated the mix of sessions and activites on offer. A big thank you to the in-person team of volunteers who made the workshop success a possibility! For a full list of organisers, see the website. 
 
-![inPersonTeam](inPersonTeam.jpg)
+![inPersonTeam](organisers.png)
 
 
 From left in picture above: 
-[Dr Francis Agamah](https://www.linkedin.com/in/francis-agamah-3a5762115/), [Daphne Machangara](https://www.linkedin.com/in/daphne-machangara-a5688a112/), [Rolanda Julius](https://www.linkedin.com/in/rolanda-julius-388a1b214/), [Comfort Adesina](https://www.linkedin.com/in/comfort-adesina-77808b233/), [Imane Hamzaoui ](https://www.linkedin.com/in/imane-hamzaoui-667514199/), [Chinonyelum Igwe](https://www.linkedin.com/in/chinonyelum-igwe/), author and [Gbetondji Donovan](https://www.linkedin.com/in/gbetondji-dovonon/). Not picture [Ditiro Rampate](https://www.linkedin.com/in/ditiro-rampate-46a999a4/)
+[Ditiro Rampate](https://www.linkedin.com/in/ditiro-rampate-46a999a4/), 
+
+ [Comfort Adesina](https://www.linkedin.com/in/comfort-adesina-77808b233/)
 
 # Roles and Responsibilities
-1. I played a key leadership role in organizing the workshop, defining subgroup tasks, actively engaging in meetings, and creating feedback forms to support future improvements. 
-2. I was responsible for helping to secure speakers, organizing the AI in Healthcare Ethics panel, and sourcing prizes. In the lead-up to the event, I managed on-ground logistics, and handled challenges like speaker cancellations and a last-minute venue change. 
-3. I facilitated the ethics panel and stepped in as a judge for the Lightning Talks. 
-4. After the event, I managed the accounting, fund distribution to prize winners, and compiled a detailed feedback report. 
-
-
-
+I led both the conceptual and operational planning of the workshop and Ideathon.
+Key responsibilities included:
+1. Organizing and moderating the AI in Health Research panel.
+2. Selecting Lightning Talk winners and facilitating their presentations.
+3. Designing the overall workshop structure and program flow, inclusive of co-authoring the proposal for the Deep Learning Indaba.
+4. I managed on-ground logistics, and handled the liasing with main conference organisers.
+5. Overseeing marketing, logistics, and budget management.
+6. Coordinating pre-workshop [seminars](https://cassyni.com/series/SHSF3nqRsEe2LA6h5s6PmC) to build awareness and momentum.
+7. Hosting and supporting the [Ideathon](https://cassyni.com/series/JWAjLmN99Z4fd8mCJR9w6i).
+8. Consolidating feedback and writing post-event outcome reports and blog features. 
 
 
 ### Skills: 
-Technical Communication, Event Planning, Ethics Panel Moderator, Fundraising, Lightning Talk Judge, STEM Education, Team Coordination, Workshop Creation
+Leadership, Technical Program Design, Event Planning, Panel Moderation, Workshop Facilitation, Budget Management, Marketing Strategy, Team Coordination, Research Communication , AI for Health Capacity Building
+
