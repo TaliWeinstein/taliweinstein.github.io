@@ -1,5 +1,5 @@
 ---
-title:  JC
+title:  JC He
 summary: Fabrication of an ECG sensing platform integrated into a bra
 tags:
   - Software

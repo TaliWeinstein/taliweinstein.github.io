@@ -231,12 +231,12 @@ sections:
       columns: '2'
       view: citation
   # - block: collection
-  #   id: talks
+  #   id: writing
   #   content:
-  #     title: Talks
+  #     title: Writing
   #     filters:
   #       folders:
-  #         - event
+  #         - writing
   #   design:
   #     columns: '2'
   #     view: compact
