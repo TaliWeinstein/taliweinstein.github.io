@@ -1,8 +1,6 @@
 ---
-title: Data Science for Health in Africa Workshop at Deep Learning Indaba 2025
-summary: The 2025 DS4Health in Kigali showcased how feedback-driven design, collaboration, and innovation transformed the workshop into one of the conference’s most engaging and impactful events.
-
-
+title: 'Data Science for Health in Africa Workshop at Deep Learning Indaba 2025'
+summary: 'The 2025 DS4Health in Kigali showcased how feedback-driven design, collaboration, and innovation transformed the workshop into one of the conference’s most engaging and impactful events.'
 tags:
   - Volunteering
 date: "2025-08-21T00:00:00Z"
