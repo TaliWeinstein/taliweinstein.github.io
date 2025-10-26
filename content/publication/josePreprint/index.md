@@ -1,14 +1,24 @@
 ---
-title: ''
+title: 'Electrochemical Lateral Flow Assay with Linked Analytics for Surveillance of Cassava Brown Streak Disease in East Africa'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Vered Aharonson
-  - Christos Karpasitis
+  - Jose M.R. Flauzino
+  - Abdulkadir Sanli 
+  - Rudolph R. Shirima 
+  - Yuanjun Cai
+  - Tinghao Hu
+  - Leyang Li
   - admin
-  - Gershon Koral
+  - Selin Olenik
+  - Adulkadir Gumuscu
+  - Laura Gonzalez-Macia
+  - George Mahuku
+  - James Legg
+  - Anthony E.G. Cass
+  - Firat Guder
   
 
 # Author notes (optional)
@@ -16,27 +26,27 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution' -->
 
-date: '2022-04-22T00:00:00Z'
-doi: 'https://doi.org/10.34190/ecsm.9.1.299'
+date: '2025-10-14T00:00:00Z'
+doi: 'https://doi.org/10.1101/2025.10.13.682040'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-10-25T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['paper-biorxiv']
 
 # Publication name and optional abbreviated publication name.
-publication: In 9th European Conference on Social Media 
-publication_short: In ECSM
+publication: bioRxiv
+publication_short: 
 
-abstract: Healthcare professionals harness social media to encourage responsible behaviour during the COVID-19 pandemic. As internet users often struggle to assess the veracity of the information in these addresses, acoustic characteristics of the presenters’ speech may play a significant role in their persuasiveness impact. Using a netnographic approach, we studied YouTubers’ reactions to explore the persuasiveness attributes of COVID-19-related speeches included in YouTube videos within a South African context. The persuasiveness index was computed from the view count, likes, and dislikes of 314 speech segments from YouTube interviews related to COVID-19. Standard acoustic features – Mel frequency cepstral coefficients - of the interviewees’ voices were extracted through speech processing. Recurrent neural networks were optimized and the strength of these acoustic features to classify and predict the persuasiveness index. The cepstral feature set yielded a balanced accuracy of 86.8% and F1 score of 85.0%. These preliminary results exhibit the potential of the vocal cepstrum as a predictor of persuasiveness in healthcare addresses on responsible behaviour during the COVID-19 pandemic. The results imply that quantitative acoustic analysis of a presenter’s voice, independent from text, can explain the impact of social media addresses.
+abstract: Cassava brown streak disease (CBSD) severely threatens food security in East Africa and the livelihoods of hundreds of millions globally. Effective control requires large-scale surveillance in resource-limited settings, which is currently lacking. We present ELLA (Electrochemical Lateral Flow Assay with Linked Analytics), a portable, battery-free, low-cost digital diagnostic platform integrating lateral flow assays with near-field communication and electrochemical readouts for cloud-based data storage and analytics. Validated through extensive field trials in East Africa and smaller studies in Brazil, ELLA achieved 89% agreement with RT-qPCR and 95% with ELISA, often surpassing ELISA sensitivity at a material cost below US$1 per test. Leveraging ELLA’s molecular results, we trained a deep-learning model (DeepELLA) for rapid, image-based diagnosis of CBSD, enabling scalable surveillance of this and potentially emerging plant pathogens. By combining electrochemical sensing, digital connectivity, and AI-driven analytics, ELLA offers a powerful tool to strengthen plant disease monitoring and food security. Its modular design also allows adaptation to other chemical and biological targets, creating opportunities for novel datasets and new insights into plant and environmental health.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [COVID-19, Public address, Persuasiveness, YouTube videos, YouTube interviews, Deep Machine Learning, Speech Analysis]
+tags: [Near-Field Communication, Biosensors, Digital Diagnostics, Cassava Brown Streak Disease, Artificial Intelligence, Deep Learning]
 
 # Display this page in the Featured widget?
 featured: true
@@ -68,7 +78,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - The Impact of Acoustic Features on the Persuasiveness of COVID-19 Lifestyle Speeches_ Spectral and Cepstral Features
+  - 
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -87,4 +97,5 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+
 
