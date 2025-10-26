@@ -23,7 +23,7 @@ links:
     icon_pack: fas
     name: Website
     url: https://ds4healthafrica.github.io/
-    - icon: desktop
+  - icon: desktop
     icon_pack: fas
     name: Slides
     url: "uploads/DLI2025/DS4HEALTH.pdf"
