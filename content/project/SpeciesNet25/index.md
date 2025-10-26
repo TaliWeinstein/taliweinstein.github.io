@@ -3,7 +3,7 @@ title: 'Bias: Endangering Species and Performance'
 summary: 'An Evaluation of SpeciesNet on Leopard Classification as a Feasibility Study for Endangered Species'
 tags:
   - Software
-date: "2025-10-27T00:00:00Z"
+date: "2025-10-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
