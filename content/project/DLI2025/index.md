@@ -66,20 +66,32 @@ Panelists included(from left):
 
 
 The workshop was intentionally participatory, emphasising collaboration and peer learning.
-The Lightning Talk Competition showcased the work of emerging African researchers. As Programming Chair, I coordinated submissions and selected the winning presentations based on scientific merit and clarity.
+The Lightning Talk Competition showcased the work of emerging African researchers. As Programming Chair, I coordinated submissions and selected the winning presentations based on scientific merit and clarity. 
 
-![LightningTalks](lightningTalks.png)
+![LightningTalks](lightningTalk.png)
+Pictured here are the winners. The top scorer was Christopher Mvelase, followed by [Sourour Ammar](https://www.linkedin.com/in/sourour-ammar-15a82617/) and [Ferdaous Idlahcen](https://www.linkedin.com/in/ferdaous-idlahcen/).
 
-The MedGemma tutorial, led by Dr. Mercy Asiedu and Dr. Sekou Remy from Google Research, provided hands-on experience in AI for medical imaging. The Design Dash followed, challenging interdisciplinary teams to design AI solutions addressing real healthcare challenges.
+
+The MedGemma tutorial, led by [Dr. Mercy Asiedu](https://www.linkedin.com/in/mercy-n-asiedu/) and [Dr. Sekou Remy](https://www.linkedin.com/in/sekoulremy/) from Google, provided hands-on experience in AI for medical imaging. The Design Dash followed, challenging interdisciplinary teams to design AI solutions addressing real healthcare challenges.
 
 ![DesignDash](DesignDash.png)
 
-The day concluded with the launch of the Google-Sponsored DS4Health Ideathon. The Ideathon occured over 3 stages, with a final live pitch on the 9th of October 2025. I assisted with the Ideathon logistics and hosted the [final live pitching event](https://cassyni.com/series/JWAjLmN99Z4fd8mCJR9w6i).
+The day concluded with the launch of the Google-Sponsored DS4Health Ideathon. The Ideathon occured over 3 stages, with a final live pitch on the 9th of October 2025. I assisted with the Ideathon logistics and hosted the [final live pitching event](https://cassyni.com/series/JWAjLmN99Z4fd8mCJR9w6i). 
 
 
 ![Ideathon](ideathon.png)
 
 
+The 2025 workshop represented a significant leap in scale, visibility, and impact, much of which stemmed from using data and feedback gathered during the 2024 workshop to improve planning and delivery.
+
+Key highlights included:
+•	3.8× increase in attendance and 4.5× rise in feedback responses compared to 2024.
+•	A clearer, more structured agenda, refined using insights from participant feedback forms.
+•	Targeted advertising and pre-workshop seminars, which expanded awareness and attracted high-quality applications.
+•	Improved activity flow, balancing expert talks with participatory sessions.
+•	Consistently high satisfaction ratings, with 100% of respondents describing the workshop as “very useful.”
+•	Strong praise for the Design Dash and panel discussion, which participants ranked as the most engaging and impactful sessions.
+These outcomes validated the refinements made from the previous year — demonstrating how structured evaluation and adaptive design can enhance workshop outcomes and build lasting research communities.
 
 
 
@@ -87,9 +99,7 @@ The day concluded with the launch of the Google-Sponsored DS4Health Ideathon. Th
 
 
 From left in picture above: 
-[Ditiro Rampate](https://www.linkedin.com/in/ditiro-rampate-46a999a4/), 
-
- [Comfort Adesina](https://www.linkedin.com/in/comfort-adesina-77808b233/)
+[Ditiro Rampate](https://www.linkedin.com/in/ditiro-rampate-46a999a4/), [Charles Nimo](https://www.linkedin.com/in/charlesnimo/), [Comfort Adesina](https://www.linkedin.com/in/comfort-adesina-77808b233/), myself, [Ashery Mbilinyi](https://www.linkedin.com/in/asherymbilinyi/) and [Marvellous Ajala ](https://www.linkedin.com/in/marvellousajala/)
 
 # Roles and Responsibilities
 I led both the conceptual and operational planning of the workshop and Ideathon.
