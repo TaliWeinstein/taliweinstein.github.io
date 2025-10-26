@@ -17,12 +17,9 @@ location: Online
 summary: I led the six-part online seminar series designed to energize and connect participants ahead of the Data Science for Health Workshop at the Deep Learning Indaba 2025. The series equipped attendees with the context, ideas, and community needed to get the most out of the in-person event in Kigali.
 abstract: The DS4Health Seminar Series (2025) was a six-session online precursor to the 21 August workshop at the Deep Learning Indaba. Spanning from 22 May through 14 August, the series features curated talks and interactive discussions with leading voices in African health data science, covering themes such as machine-learning for diagnostics, neuroAI,sensor development and deployment in low-resource settings. Each three-weekly session brought together practitioners and researchers to deepen their knowledge, sharpen their questions, and build peer networks ahead of the in-person event. As Programming Chair, I organised the seminars, hosted and facilitated the live Q&A. Participants who attended 60% of the sessions earned a certificate of participation, and the most thoughtful question submitted across the series will received a prize to honour the spirit of inquiry, innovation, and African-led impact at the heart of DS4Health.
 
-
-'
-
 # Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-05-22T13:00:00Z'
+#   End time can optionally be hidden by prefixing the line with `#`
+date: '2025-05-22T00:00:00Z'
 date_end: '2025-08-14T18:00:00Z'
 all_day: false
 
