@@ -17,7 +17,7 @@ image:
 links:
   - icon: face-smile
     icon_pack: far
-    name: Profile
+    name: Program
     url: 'https://deeplearningindaba.com/2025/posters/'
   - icon: map
     icon_pack: fas
