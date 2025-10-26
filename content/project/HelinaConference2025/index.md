@@ -1,27 +1,27 @@
 ---
-title:  From Passive to Participatory: Healthcare Workshop Design for Continued Community Engagement
-summary: Summarising the design of collaborative workshops for encouraging community building.
+title:  Embroidered Electronic Interfacing for Health Monitoring 
+summary: Fabrication of an ECG sensing platform integrated into a bra
 tags:
-  - Volunteering
-date: "2025-04-27T00:00:00Z"
+  - Hardware
+date: "2023-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
 
 image:
-  caption: Tali Weinstein
+  caption: Tali Weinstein and Ethan Zhou
   focal_point: Smart
 
 
 links:
-  - icon: face-smile
-    icon_pack: far
-    name: Profile
-    url: 'https://deeplearningindaba.com/2025/posters/'
+  - icon: video
+    icon_pack: fas
+    name: Video
+    url: 'https://youtu.be/n75w6wqE1MU'
   - icon: map
     icon_pack: fas
     name: Poster
-    url: 'Poster.pdf'
+    url: 'FinalPoster.pdf'
 
 # url_pdf: 'https://papers.academic-conferences.org/index.php/ecsm/article/view/299'
 # url_slides: 'https://www.wits.ac.za/news/latest-news/research-news/2021/2021-11/eie-open-day-2021.html'
@@ -36,10 +36,9 @@ links:
 # slides: example
 ---
 
+A novel PEDOT: PSS-modified cotton thread (PECOTEX) was produced for sensor embroidery into T-shirts. This modified PECOTEX thread was interfaced with a commercial flexible printed board to monitor ECG signals from the clothing wearer. Originally, a T-shirt was utilised (as in the [video](https://youtu.be/n75w6wqE1MU)). Thereafter, a sports bra was utilised for better skin contact. This project earned me the top Bioengineering student award for best thesis at Imperial College London. 
 
-As part of my work with SisonkeBiotik, I led the writing of a conference paper for the [HELINA 2025: Pan African Health Informatics Association](http://easychair.org/cfp.org/cfp/HELINA2025). The paper examined key lessons learned from running workshops across different conferences, focusing on strategies for effective audience engagement and sustained community involvement. It argued that long-term impact requires workshops to go beyond one-off participation. This requires encourgaing collaborative idea formation among participants and creating spaces where these ideas can be developed and implemented. A poster based on this work was presented at the [2025 Deep Learning Indaba's poster session](https://deeplearningindaba.com/2025/posters/)
- and directly informed the design of the 2025 Data Science for Health in Africa Workshop.
 
 
 ### Skills: 
-Workshop design, Writing, Data Collection, Data Analytics
+3D Printing, Analytical Problem Solving, Arduino, CAD design, Circuit Design, Data processing, Flexible Electronics, MATLAB, Signal Processing 
