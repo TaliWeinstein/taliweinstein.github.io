@@ -58,11 +58,11 @@ The day began with a keynote by [Professor Michael Best](https://mikeb.inta.gate
 
 ![panel](panelDiscussion.png)
 Panelists included(from left):
-[Prof. Michael Best](https://mikeb.inta.gatech.edu/) – Georgia Institute of Technology
-[Dr. Rose Nakasi](https://cocis.mak.ac.ug/faculty/information-technology/rose-nakasi/) – Makerere University AI Health Lab
-[Dr. Arijit Patra](https://www.linkedin.com/in/arijit-patra-92a18457/) – UCB Biopharma UK / University of Glasgow
-[Dr. Tobi Olatunji](http://intron.io/) – Intron Health
-[Jay Patel](https://jacarandahealth.org/) – Jacaranda Health Chief Technical Officer
+[Prof. Michael Best](https://mikeb.inta.gatech.edu/) (Georgia Institute of Technology)
+[Dr. Rose Nakasi](https://cocis.mak.ac.ug/faculty/information-technology/rose-nakasi/) (Makerere University AI Health Lab)
+[Dr. Arijit Patra](https://www.linkedin.com/in/arijit-patra-92a18457/) (UCB Biopharma UK / University of Glasgow)
+[Dr. Tobi Olatunji](http://intron.io/) (Intron Health Founder) and
+[Jay Patel](https://jacarandahealth.org/) (Jacaranda Health Chief Technical Officer) 
 
 
 The workshop was intentionally participatory, emphasising collaboration and peer learning.
@@ -85,13 +85,14 @@ The day concluded with the launch of the Google-Sponsored DS4Health Ideathon. Th
 The 2025 workshop represented a significant leap in scale, visibility, and impact, much of which stemmed from using data and feedback gathered during the 2024 workshop to improve planning and delivery.
 
 Key highlights included:
-•	3.8× increase in attendance and 4.5× rise in feedback responses compared to 2024.
-•	A clearer, more structured agenda, refined using insights from participant feedback forms.
-•	Targeted advertising and pre-workshop seminars, which expanded awareness and attracted high-quality applications.
-•	Improved activity flow, balancing expert talks with participatory sessions.
-•	Consistently high satisfaction ratings, with 100% of respondents describing the workshop as “very useful.”
-•	Strong praise for the Design Dash and panel discussion, which participants ranked as the most engaging and impactful sessions.
-These outcomes validated the refinements made from the previous year — demonstrating how structured evaluation and adaptive design can enhance workshop outcomes and build lasting research communities.
+1. 3.8× increase in attendance and 4.5× rise in feedback responses compared to 2024.
+2. A clearer, more structured agenda, refined using insights from participant feedback forms.
+3. Targeted advertising and pre-workshop seminars, which expanded awareness and attracted high-quality applications.
+4. Improved activity flow, balancing expert talks with participatory sessions.
+5. Consistently high satisfaction ratings, with 100% of respondents describing the workshop as “very useful.”
+6. Strong praise for the Design Dash and panel discussion, which participants ranked as the most engaging and impactful sessions.
+
+These outcomes validated the refinements made from the previous year. This demonstrates how structured evaluation and adaptive design can enhance workshop outcomes and build lasting research communities.
 
 
 
