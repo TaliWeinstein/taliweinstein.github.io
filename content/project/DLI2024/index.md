@@ -4,7 +4,7 @@ summary: The DS4Health Africa workshop, part of Deep Learning Indaba, explores d
 
 tags:
   - Volunteering
-date: "2024-09-7T00:00:00Z"
+date: "2024-09-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
