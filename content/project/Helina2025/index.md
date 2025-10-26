@@ -4,6 +4,7 @@ summary: Communicating the design of collaborative workshops for encouraging com
 tags:
   - Other
 featured: true
+draft: false
 date: "2025-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
