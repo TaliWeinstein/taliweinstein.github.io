@@ -41,4 +41,4 @@ A novel PEDOT: PSS-modified cotton thread (PECOTEX) was produced for sensor embr
 
 
 ### Skills: 
-3D Printing, Analytical Problem Solving, Arduino, CAD design, Circuit Design, Data processing, Flexible Electronics, MATLAB, Signal Processing 
+3D Printing, Analytical Problem Solving, Arduino, CAD design, Circuit Design, Data processing, Flexible Electronics, MATLAB, signal processing 
