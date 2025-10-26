@@ -44,7 +44,10 @@ links:
     icon_pack: far
     name: Advert
     url: https://www.linkedin.com/posts/taliya-weinstein-0222b717b_ai4health-deeplearningindaba-dshealthcare-activity-7329983429238853632-pMVj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACqUsloBag9mXbm5f-mMxS0riu1t-_Z_M0c
-
+#   - icon: clock
+#     icon_pack: far
+#     name: Itinerary
+#     url: "uploads/ImpackofAcoustic/EIEWomanConference.pdf"
 url_code: ''
 url_pdf: ''
 url_slides: ''
