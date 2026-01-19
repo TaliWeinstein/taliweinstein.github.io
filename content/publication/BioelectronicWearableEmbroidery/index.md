@@ -5,11 +5,17 @@ title: 'llm'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Vered Aharonson
-  - Christos Karpasitis
   - admin
-  - Gershon Koral
-  
+  - Xintong Li
+  - Hasan Kurt
+  - Selin Olenik
+  - Alexander Silva-Pinto Collins
+  - Jose Manuel Rodrigueiro Flauzino
+  - Muhammed Adeel
+  - Laura Gonzalez-Macia
+  - Meral Yuce
+  - Firat Guder
+
 
 # Author notes (optional)
 # <!-- author_notes:
