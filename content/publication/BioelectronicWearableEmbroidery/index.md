@@ -74,7 +74,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - The Impact of Acoustic Features on the Persuasiveness of COVID-19 Lifestyle Speeches_ Spectral and Cepstral Features
+  - MastersResearch
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
