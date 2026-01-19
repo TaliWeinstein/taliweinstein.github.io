@@ -42,7 +42,7 @@ abstract: 'Electronic textiles offer a promising route to wearable systems capab
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [COVID-19, Public address, Persuasiveness, YouTube videos, YouTube interviews, Deep Machine Learning, Speech Analysis]
+tags: [Conductive Cotton Thread, Computerized Embroidery, Electrochemical Sensing, Embroidered Electronics, Wearable Electrocardiogram]
 
 # Display this page in the Featured widget?
 featured: true
