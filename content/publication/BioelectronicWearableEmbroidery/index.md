@@ -23,7 +23,7 @@ authors:
 #   - 'Equal contribution' -->
 
 date: '2022-04-22T00:00:00Z'
-doi: 'https://doi.org/10.34190/ecsm.9.1.299'
+doi: 'https://doi.org/10.64898/2025.11.25.690465'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
