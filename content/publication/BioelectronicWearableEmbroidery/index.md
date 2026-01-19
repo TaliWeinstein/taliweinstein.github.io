@@ -36,7 +36,7 @@ publication_types: ['preprint']
 
 # Publication name and optional abbreviated publication name.
 publication: bioRxiv
-#publication_short: In ECSM
+publication_short: bioRxiv
 
 abstract: Electronic textiles offer a promising route to wearable systems capable of continuous biophysical and biochemical monitoring. Their broader adoption remains limited by conductive threads that rarely support computerized embroidery (CEmb), reliable electronic integration, and reduced electrochemical capabilities due to coatings that degrade under bending, friction, or aqueous exposure. In this work, we use a dual-thread strategy that integrates silver-plated polyamide threads (AgPT) for high-conductivity pathways with PECOTEX, a chemically resilient PEDOT:PSS-coated cotton thread optimized for biochemical sensing. This approach preserves compatibility with CEmb, enhances electrochemical performance, and reduces cost by reserving AgPT for critical traces. We demonstrate a CEmb-compatible fabrication process for two wearable devices: a fully embroidered SmartBra for electrocardiography and a two-electrode ion sensor for potassium and sodium detection. We validate the design of our wearable dual-thread biosensors through laboratory characterization experiments and evaluate electrochemical sensing performance using a breast milk substitute, enabling realistic testing within women’s health and infant-nutrition contexts. By focusing on scalable fabrication and meaningful applications, this work advances embroidered electronic textile systems toward practical, personalized healthcare monitoring.
 
