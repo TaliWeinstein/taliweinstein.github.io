@@ -1,14 +1,21 @@
 ---
-title: 'Netnography of Social Media Addresses on COVID-19'
+title: 'Bioelectronic Wearable Sensors Produced by Computerized Embroidery Using a Dual Thread Approach'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Vered Aharonson
-  - Christos Karpasitis
   - admin
-  - Gershon Koral
+  - Xintong Li
+  - Hasan Kurt
+  - Selin Olenik
+  - Alexander Silva-Pinto Collins
+  - Jose Manuel Rodrigueiro Flauzino
+  - Muhammed Adeel
+  - Laura Gonzalez-Macia
+  - Meral Yuce
+  - Firat Guder
+
   
 
 # Author notes (optional)
@@ -16,27 +23,27 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution' -->
 
-date: '2022-04-22T00:00:00Z'
-doi: 'https://doi.org/10.34190/ecsm.9.1.299'
+date: '2025-12-12T00:00:00Z'
+doi: ' https://doi.org/10.64898/2025.11.25.690465'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2026-01-19T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
-publication: In 9th European Conference on Social Media 
-publication_short: In ECSM
+publication: bioRxiv
+publication_short: bioRxiv
 
-abstract: Healthcare professionals harness social media to encourage responsible behaviour during the COVID-19 pandemic. As internet users often struggle to assess the veracity of the information in these addresses, acoustic characteristics of the presenters’ speech may play a significant role in their persuasiveness impact. Using a netnographic approach, we studied YouTubers’ reactions to explore the persuasiveness attributes of COVID-19-related speeches included in YouTube videos within a South African context. The persuasiveness index was computed from the view count, likes, and dislikes of 314 speech segments from YouTube interviews related to COVID-19. Standard acoustic features – Mel frequency cepstral coefficients - of the interviewees’ voices were extracted through speech processing. Recurrent neural networks were optimized and the strength of these acoustic features to classify and predict the persuasiveness index. The cepstral feature set yielded a balanced accuracy of 86.8% and F1 score of 85.0%. These preliminary results exhibit the potential of the vocal cepstrum as a predictor of persuasiveness in healthcare addresses on responsible behaviour during the COVID-19 pandemic. The results imply that quantitative acoustic analysis of a presenter’s voice, independent from text, can explain the impact of social media addresses.
+abstract: Electronic textiles offer a promising route to wearable systems capable of continuous biophysical and biochemical monitoring. Their broader adoption remains limited by conductive threads that rarely support computerized embroidery (CEmb), reliable electronic integration, and reduced electrochemical capabilities due to coatings that degrade under bending, friction, or aqueous exposure. In this work, we use a dual-thread strategy that integrates silver-plated polyamide threads (AgPT) for high-conductivity pathways with PECOTEX, a chemically resilient PEDOT:PSS-coated cotton thread optimized for biochemical sensing. This approach preserves compatibility with CEmb, enhances electrochemical performance, and reduces cost by reserving AgPT for critical traces. We demonstrate a CEmb-compatible fabrication process for two wearable devices: a fully embroidered SmartBra for electrocardiography and a two-electrode ion sensor for potassium and sodium detection. We validate the design of our wearable dual-thread biosensors through laboratory characterization experiments and evaluate electrochemical sensing performance using a breast milk substitute, enabling realistic testing within women’s health and infant-nutrition contexts. By focusing on scalable fabrication and meaningful applications, this work advances embroidered electronic textile systems toward practical, personalized healthcare monitoring.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [COVID-19, Public address, Persuasiveness, YouTube videos, YouTube interviews, Deep Machine Learning, Speech Analysis]
+tags: [Conductive Cotton Thread, Computerized Embroidery, Electrochemical Sensing, Embroidered Electronics, Wearable Electrocardiogram]
 
 # Display this page in the Featured widget?
 featured: true
@@ -68,7 +75,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - The Impact of Acoustic Features on the Persuasiveness of COVID-19 Lifestyle Speeches_ Spectral and Cepstral Features
+  - MastersResearch
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -87,3 +94,5 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+
+
