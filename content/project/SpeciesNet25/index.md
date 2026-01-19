@@ -21,6 +21,10 @@ links:
     icon_pack: fas
     name: Poster
     url: 'Poster.pdf'
+  - icon: globe
+    icon_pack: fas
+    name: Website
+    url: 'https://deeplearningindaba.com/2025/2025-ideathon-winners/'
 
 ---
 
