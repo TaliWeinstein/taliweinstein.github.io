@@ -1,5 +1,5 @@
 ---
-title: 'llm'
+title: 'Bioelectronic Wearable Sensors Produced by Computerized Embroidery Using a Dual Thread Approach'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
