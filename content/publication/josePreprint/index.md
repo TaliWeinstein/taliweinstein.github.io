@@ -5,9 +5,9 @@ title: 'Electrochemical Lateral Flow Assay with Linked Analytics for Surveillanc
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jose M.R. Flauzino
+  - Jose Manuel Rodrigueiro Flauzino
   - Abdulkadir Sanli 
-  - Rudolph R. Shirima 
+  - Rudolph Shirima 
   - Yuanjun Cai
   - Tinghao Hu
   - Leyang Li
@@ -17,7 +17,7 @@ authors:
   - Laura Gonzalez-Macia
   - George Mahuku
   - James Legg
-  - Anthony E.G. Cass
+  - Anthony Cass
   - Firat Guder
   
 
