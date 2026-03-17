@@ -25,6 +25,10 @@ links:
     icon_pack: fas
     name: Website
     url: 'https://deeplearningindaba.com/2025/2025-ideathon-winners/'
+  - icon: video
+    icon_pack: fas
+    name: Video
+    url: 'https://www.youtube.com/watch?v=jvU8TRTU5ZQ'
 
 ---
 
