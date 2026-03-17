@@ -85,7 +85,7 @@ The MedGemma tutorial, led by [Dr. Mercy Asiedu](https://www.linkedin.com/in/mer
 
 ![DesignDash](DesignDash.png)
 
-The day concluded with the launch of the Google-Sponsored DS4Health Ideathon. The Ideathon occured over 3 stages, with a final live pitch on the 9th of October 2025. I assisted with the Ideathon logistics and hosted the [final live pitching event](https://cassyni.com/series/JWAjLmN99Z4fd8mCJR9w6i). 
+The day concluded with the launch of the [Google-Sponsored DS4Health Ideathon](https://research.google/blog/spotlight-on-innovation-google-sponsored-data-science-for-health-ideathon-across-africa/). The Ideathon occured over 3 stages, with a final live pitch on the 9th of October 2025. I assisted with the Ideathon logistics and hosted the [final live pitching event](https://cassyni.com/series/JWAjLmN99Z4fd8mCJR9w6i). 
 
 
 ![Ideathon](ideathon.png)
@@ -101,7 +101,7 @@ Key highlights included:
 5. Consistently high satisfaction ratings, with 100% of respondents describing the workshop as “very useful.”
 6. Strong praise for the Design Dash and panel discussion, which participants ranked as the most engaging and impactful sessions.
 
-These outcomes validated the refinements made from the previous year. This demonstrates how structured evaluation and adaptive design can enhance workshop outcomes and build lasting research communities.
+These outcomes validated the refinements made from the previous year. This demonstrates how structured evaluation and adaptive design can enhance workshop outcomes and build lasting research communities. The [beginning section of the workshop](https://www.youtube.com/watch?v=FUxOFqe6ejw&list=PLICxY_yQeGYkoWdqyStdy_wn0mvAVaZ2-&index=29) is available for viewing.
 
 
 
