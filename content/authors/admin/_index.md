@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant 
+role: Research Engineer and Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Imperial College London
-    url: https://www.imperial.ac.uk/
+  - name: Melio AI 
+    url: https://melio.ai/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Pursuing inventive, interdisciplinary solutions for impactful change while advancing the engineering field.
@@ -117,9 +117,12 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a curiosity-driven biomedical and electrical engineer. I also finished my Master of Research(MRes) in Bioengineering, as the top student, at Imperial College London in the Güder lab. My MRes focused on extracting electrical signals from e-textiles with an initial investigation into electrochemical signal extraction.
+I am a curiosity-driven biomedical and electrical engineer with a focus on building technology that solves high-stakes, real-world problems. I finished my Master of Research (MRes) in Bioengineering at Imperial College London, where I graduated at the top of my class. My research in the Güder lab pushed the boundaries of wearable tech, specifically looking at how we can use computerized embroidery to extract electrical and electrochemical signals from e-textiles.
 
-In addition to the interdisciplinary electronic, signal processing, and electrochemical skills I acquired during my MRes degree, I have experience in developing software for solving complex problems and a working knowledge of applied machine learning. 
+My background is a mix of hardware and software, and I’ve spent the last few years proving I can take technical concepts and scale them into something impactful. Whether it’s building agentic AI workflows as a Data Scientist at Melio.AI or leading workshops as part of my volunteering role with SisonkeBiotik, I’m at my best when I'm at the intersection of engineering, science, and leadership.
+
+Looking ahead, my ‘North Star’ is to move towards translational high-performing innovator. I’m driven by a need for creative independence that allows me to tackle existential global challenges. Currently, I am exploring how my expertise in sensing and AI can be used to help advance the field of biosecurity, not just by understanding the science, but by building the actual tools and organisations that move the needle on a global scale.
+
  
 {style="text-align: justify;"}
 
