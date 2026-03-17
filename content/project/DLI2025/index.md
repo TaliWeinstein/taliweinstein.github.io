@@ -31,6 +31,10 @@ links:
     icon_pack: fas
     name: Video
     url: https://www.youtube.com/watch?v=FUxOFqe6ejw&list=PLICxY_yQeGYkoWdqyStdy_wn0mvAVaZ2-&index=29
+  - icon: newspaper
+    icon_pack: fas
+    name: Blog
+    url: https://open.substack.com/pub/taliyaweinstein/p/building-africas-health-future-reflections?r=2nnydk&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
   
 
 
