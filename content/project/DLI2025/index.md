@@ -27,6 +27,11 @@ links:
     icon_pack: fas
     name: Slides
     url: "uploads/DLI2025/DS4HEALTH.pdf"
+  - icon: video
+    icon_pack: fas
+    name: Video
+    url: https://www.youtube.com/watch?v=FUxOFqe6ejw&list=PLICxY_yQeGYkoWdqyStdy_wn0mvAVaZ2-&index=29
+  
 
 
 
