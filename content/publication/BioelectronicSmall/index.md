@@ -23,7 +23,7 @@ authors:
 #   - 'Equal contribution' -->
 
 date: '2026-09-14T00:00:00Z'
-doi: 'https://doi.org/10.1002/smll.75624Digital Object Identifier (DOI)'
+doi: 'https://doi.org/10.1002/smll.75624'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2026-09-09T00:00:00Z'
