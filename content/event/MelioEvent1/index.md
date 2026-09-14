@@ -19,12 +19,12 @@ abstract: The DS4Health Seminar Series (2025) was a six-session online precursor
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`
-date: '2025-05-22T00:00:00Z'
-date_end: '2025-08-14T18:00:00Z'
+date: '2026-05-20T00:00:00Z'
+date_end: '2026-05-20T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-10-26T00:00:00Z'
+publishDate: '2026-09-14T00:00:00Z'
 
 authors: [Taliya Weinstein]
 tags: [AI for Health, Data Science, Healthcare Innovation, Capacity Building, Community Engagement, African Research, Leadership, Seminar Series, Event Hosting]
@@ -40,11 +40,11 @@ links:
   - icon: calendar
     icon_pack: far
     name: Advert
-    url: https://www.linkedin.com/posts/taliya-weinstein-0222b717b_ai4health-deeplearningindaba-dshealthcare-activity-7329983429238853632-pMVj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACqUsloBag9mXbm5f-mMxS0riu1t-_Z_M0c
+    url: https://www.meetup.com/artificialintelligenceza/events/314704600/?eventOrigin=group_past_events
   - icon: globe
     icon_pack: fas
     name: Website
-    url: https://cassyni.com/series/SHSF3nqRsEe2LA6h5s6PmC/seminars
+    url: https://www.youtube.com/watch?v=GvYSOV6CC1M
 url_code: ''
 url_pdf: ''
 url_slides: ''
