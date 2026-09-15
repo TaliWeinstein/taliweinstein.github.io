@@ -1,15 +1,15 @@
 ---
-title: Prompting the Future of AI in South Africa: Designing a Society of Flourishing
+title: Prompting the Future of AI in South Africa 
 
 event: In person meetup event
 event_url: 'https://www.meetup.com/artificialintelligenceza/events/314704600/?eventOrigin=group_past_events'
 
-location: In-person
+location: Entelect
 address:
-  street: Entelect, 3rd floor, Melrose Arch
+  street: 3 Melrose Blvd, Melrose
   city: Johannesburg
   region: 
-  postcode: 
+  postcode: 2196
   country: South Africa 
 
 
