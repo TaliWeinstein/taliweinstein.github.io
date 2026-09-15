@@ -14,8 +14,8 @@ address:
 
 
 
-summary: I led the six-part online seminar series designed to energize and connect participants ahead of the Data Science for Health Workshop at the Deep Learning Indaba 2025. The series equipped attendees with the context, ideas, and community needed to get the most out of the in-person event in Kigali.
-abstract: The DS4Health Seminar Series (2025) was a six-session online precursor to the 21 August workshop at the Deep Learning Indaba. Spanning from 22 May through 14 August, the series features curated talks and interactive discussions with leading voices in African health data science, covering themes such as machine-learning for diagnostics, neuroAI,sensor development and deployment in low-resource settings. Each three-weekly session brought together practitioners and researchers to deepen their knowledge, sharpen their questions, and build peer networks ahead of the in-person event. As Programming Chair, I organised the seminars, hosted and facilitated the live Q&A. Participants who attended 60% of the sessions earned a certificate of participation, and the most thoughtful question submitted across the series will received a prize to honour the spirit of inquiry, innovation, and African-led impact at the heart of DS4Health.
+summary: I delivered a talk exploring the alignment gap between the AI systems we build and the outcomes we want, using South Africa's now-retracted draft AI policy as a case study for what responsible, locally-relevant AI governance could look like.
+abstract: This talk examined how AI systems that look accurate on paper can still end up hurting the people they're meant to help. This examination was based in real world case studies, specifically an AI hiring tool that quietly rejected anyone over 55, a US court algorithm that scored Black defendants as higher risk than white defendants, and a medical AI that learned to "detect cancer" by spotting rulers in photos. In each case, the model solved the wrong problem with silent societal harms. I used South Africa's draft AI policy, since retracted, as a base to discuss how we can start thinking about regulations for AI across different sectors and explored some practical tools to evaluate the benefit AI provides such as ImpactBench and ESG-style checks that can be built directly into AI development to catch fairness and accountability problems before deployment. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`
@@ -27,7 +27,7 @@ all_day: false
 publishDate: '2026-09-14T00:00:00Z'
 
 authors: [Taliya Weinstein]
-tags: [AI for Health, Data Science, Healthcare Innovation, Capacity Building, Community Engagement, African Research, Leadership, Seminar Series, Event Hosting]
+tags: [AI for Good, AI Regulation, Data Science, Event Hosting, South African Draft AI Policy]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -45,6 +45,14 @@ links:
     icon_pack: fas
     name: Website
     url: https://www.youtube.com/watch?v=GvYSOV6CC1M
+  - icon: desktop
+    icon_pack: fas
+    name: Slides
+    url: 'uploads/MelioEvent1/reducedSlides.pdf'
+  - icon: newspaper
+    icon_pack: fas
+    name: Blog
+    url: https://blog.melio.ai/policy-discussion/
 url_code: ''
 url_pdf: ''
 url_slides: ''
